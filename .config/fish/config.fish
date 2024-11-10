@@ -6,7 +6,7 @@ if status is-interactive
     #neofetch
     alias conf="nvim ~/.config/fish/config.fish"
     alias c="clear && source ~/.config/fish/config.fish"
-    alias r="cargo run -q"
+    alias cp="cp -v"
     zoxide init --cmd cd fish | source
 
 end

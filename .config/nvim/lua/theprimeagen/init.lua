@@ -10,6 +10,16 @@ require("lspconfig").clangd.setup {
     end
 }
 
+require("lspconfig").elixirls.setup {
+        cmd = {"/opt/homebrew/bin/elixir-ls"};
+}
+
+require("lspconfig").jdtls.setup{
+    on_attach = function(client, bufnr)
+        navbuddy.attach(client, bufnr)
+    end
+}
+
 -- DO.not
 -- DO NOT INCLUDE THIS
 

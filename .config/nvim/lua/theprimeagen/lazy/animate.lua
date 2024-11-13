@@ -1,3 +1,0 @@
-return {
-'camspiers/animate.vim'
-}

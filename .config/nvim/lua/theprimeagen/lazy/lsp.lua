@@ -15,17 +15,24 @@ return {
         "SmiteshP/nvim-navic",
         "MunifTanjim/nui.nvim",
         opts = { lsp = { auto_attach = true } }
-
     },
 
     config = function()
         local cmp = require('cmp')
+        local luasnip = require('luasnip')
         local cmp_lsp = require("cmp_nvim_lsp")
         local capabilities = vim.tbl_deep_extend(
             "force",
             {},
             vim.lsp.protocol.make_client_capabilities(),
             cmp_lsp.default_capabilities())
+
+        -- Add this helper function for tab completion
+        local has_words_before = function()
+            if vim.api.nvim_buf_get_option(0, "buftype") == "prompt" then return false end
+            local line, col = unpack(vim.api.nvim_win_get_cursor(0))
+            return col ~= 0 and vim.api.nvim_buf_get_text(0, line-1, 0, line-1, col, {})[1]:match("^%s*$") == nil
+        end
 
         require("fidget").setup({})
         require("mason").setup()
@@ -35,7 +42,7 @@ return {
                 "clangd",
             },
             handlers = {
-                function(server_name) -- default handler (optional)
+                function(server_name)
                     require("lspconfig")[server_name].setup {
                         capabilities = capabilities
                     }
@@ -55,7 +62,6 @@ return {
                     })
                     vim.g.zig_fmt_parse_errors = 0
                     vim.g.zig_fmt_autosave = 0
-
                 end,
                 ["lua_ls"] = function()
                     local lspconfig = require("lspconfig")
@@ -75,6 +81,7 @@ return {
                         capabilities = capabilities,
                         filetypes = {"c"}
                     })
+                    lspconfig.gleam.setup({})
                 end,
             }
         })
@@ -84,7 +91,7 @@ return {
         cmp.setup({
             snippet = {
                 expand = function(args)
-                    require('luasnip').lsp_expand(args.body) -- For `luasnip` users.
+                    require('luasnip').lsp_expand(args.body)
                 end,
             },
             mapping = cmp.mapping.preset.insert({
@@ -92,17 +99,32 @@ return {
                 ['<C-j>'] = cmp.mapping.select_next_item(cmp_select),
                 ['<C-Enter>'] = cmp.mapping.confirm({ select = true }),
                 ["<C-Space>"] = cmp.mapping.complete(),
+                ["<Tab>"] = cmp.mapping(function(fallback)
+                    if require("copilot.suggestion").is_visible() then
+                        require("copilot.suggestion").accept()
+                    elseif cmp.visible() then
+                        cmp.select_next_item({ behavior = cmp.SelectBehavior.Insert })
+                    elseif luasnip.expandable() then
+                        luasnip.expand()
+                    elseif has_words_before() then
+                        cmp.complete()
+                    else
+                        fallback()
+                    end
+                end, {
+                    "i",
+                    "s",
+                }),
             }),
             sources = cmp.config.sources({
                 { name = 'nvim_lsp' },
-                { name = 'luasnip' }, -- For luasnip users.
+                { name = 'luasnip' },
             }, {
-                    { name = 'buffer' },
-                })
+                { name = 'buffer' },
+            })
         })
 
         vim.diagnostic.config({
-            -- update_in_insert = true,
             float = {
                 focusable = false,
                 style = "minimal",

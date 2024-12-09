@@ -9,14 +9,18 @@ return {
             },
             suggestion = {
                 auto_trigger = true,
+                accept = false,
                 keymap = {
-                    accept = "<TAB>",
                     next = "<M-j>",
                     prev = "<M-k>",
                     dismiss = "<C-]>",
                 },
 
             },
+            filetypes = {
+                gleam = false,
+            },
+
         })
 
     end;

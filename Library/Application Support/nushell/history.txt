@@ -1,0 +1,3649 @@
+clear
+ls
+lsblk
+clear
+ls
+lsblk
+clear
+help
+help help
+clear
+help
+ps | where cpu > 0
+sys hos
+sys host
+cleaw
+;rq3clea
+clea
+cle
+clea
+clae
+cl;ea
+clea
+clesr
+cela
+clea
+clear
+clea
+rclea;r
+c;ea
+rc;ear
+clea
+r
+clea
+clear
+$nu.env-path
+config nu
+source
+echo XDG_CONFIG_HOME
+XDG_CONFIG_HOME
+cd
+yazi
+config nu 
+export XDG_CONFIG_HOM
+sudo vim /etc/shells
+sudo chsh -s nu
+sudo chsh -s /opt/homebrew/bin/nu
+chsh -s /opt/homebrew/bin/nu
+echo $XDG_CONFIG_HOME
+config env 
+source env
+exit
+echo $XDG_CONFIG_HOME
+echo $env.XDG_CONFIG_HOME
+nvim .
+ok i love this
+clear
+config nu
+$nu.config-path
+config reset 
+ls
+$nu.config-path
+exit
+clear
+ls
+ls -la
+eza
+clear
+ls
+ls -la
+ls .config/
+config 
+config nu
+$env.EDITOR = nvum
+$env.EDITOR = nvim
+$env.EDITOR = /opt/homebrew/bin/nvim
+$env.EDITOR = ^nvim
+$env.EDITOR = '/opt/homebrew/bin/nvim'
+vis awesomei mode
+vi
+clear
+lsblk
+ls -lal
+clear
+zoxide
+zocide init nu
+zocide init nushell
+zoxide init nushell
+config env
+nvim $nu.config-path
+nvim $nu.env-path
+zoxide init nushell
+config env
+cd
+z
+z --help
+cat ~/.config/fish/config.fish
+config nu
+config env
+exit
+cd --help
+$env | table -e
+starship init
+starship init nushell
+starship init nu
+overlay use starship.nu
+starship init nu > starship.nu
+starship init nu >> starship.nu
+nvim starship.nu
+overlay use starship.nu
+clear
+eixt
+clear
+ls
+ls -lalafeal
+ls
+clear
+cd c
+cd projects/c/
+ls
+nvim.
+make
+ls
+cd tree/
+make
+./tree 5
+./tree 8
+./tree 1
+./tree 15
+./tree
+make
+./tree
+make
+./t
+./tree
+./tree 6
+./tree 19
+clear
+starship init nu
+overlay use starship.nu
+cd
+ls
+mv starship.nu .config/
+ls
+starship init nu
+config nu 
+clear
+e
+el
+elixer
+execsnoop 
+mix
+brew install mix
+elixir
+brew install elixir
+iex
+clear
+iex --help
+cd projects/
+mkdir elixir
+cd elixir/
+touch .iex.exs
+nvim .iex.exs
+iex
+ls
+ll
+rm erl_crash.dump
+ls -la
+nvim .iex.exs
+nvim .
+elixir simple.exs
+brew install elixir-ls
+elixir-ls
+which elixir-ls
+nvim simple.exs
+cd nvim
+nvim simple.exs
+elixir sim
+elixir simple.exs
+nushell
+clear
+man elixir
+clear
+touch
+clear
+git-shell 
+cd jshell
+ls
+./jssh
+ls
+cd
+ls | grep *rc
+ls | grep rc
+ls | grep *rc
+ls | grep vim
+ls | grep 
+ls
+ls -la | grep rc
+nvim ~/.inputrc
+cd js
+ls
+./jssh
+ls -la | grep rc
+cat .inputrc
+clear
+ls
+git add .
+git commit -m "refactor initialization and shutdown"
+git push
+make
+clear
+nvim jshell.c
+cat test.hist
+echo $env.HOME
+nvim jshell.c
+make
+help
+clear
+:qclear
+exit
+make
+eixt
+exit
+nvim jshell.c
+make
+make
+clear
+ls
+./jshell.c
+./jssh
+make
+la
+ls
+make
+cd
+ls
+ls -la | grep jssh
+cat .jssh_history
+snprintf
+man getenv
+make
+nvim jshell.c
+make
+mak
+clear
+ls
+make
+git add .
+git commit -m "un-hardcode the history file path"
+git push
+tig
+lazugot
+lazygit
+clear
+ls
+man free
+cd clones
+ls
+git clone https://github.com/Snowiiii/Pumpkin.git<\n>cd Pumpkin
+ls
+cargo run -Ctarget-cpu=native --release
+set
+RUSTFLAGS=target-cpu=native
+$env.RUSTFLAGS = target-cpu=native
+$env.RUSTFLAGS = "target-cpu=native"
+$env.RUSTFLAGS = "-C target-cpu=native"
+$env.RUSTFLAGS
+$env.RUSTFLAGS = 
+$env.RUSTFLAGS = "<\n>"
+$env.RUSTFLAGS
+cargo run -C target-cpu=native --release
+brew install rustup
+rustup default stable
+cargo run -C target-cpu=native --release
+cargo
+which cargo
+which clippy
+rustc
+rustup 
+rustup show
+rustup which cargo
+/Users/25jaso/.rustup/toolchains/stable-aarch64-apple-darwin/bin/cargo
+/Users/25jaso/.rustup/toolchains/stable-aarch64-apple-darwin/bin/cargo run -C target-cpu=native --release
+$env.RUSTFLAGS = "<\n>"
+$env.RUSTFLAGS = "-C target-cpu=native"
+/Users/25jaso/.rustup/toolchains/stable-aarch64-apple-darwin/bin/cargo run --release
+rustup
+rustup remove
+rustup uninstall
+rustup uninstall *
+rustup uninstall default
+rustup uninstall stable-aarch64-apple-darwin
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh<\n>
+source
+source ~/.cargo/env
+cargo
+clear
+ls
+rustup
+rust
+ruby 
+source
+source ~/.cargo/bin/
+source ~/.cargo/bin/*
+ls
+cd ~/.cargo/
+ls
+cat env
+$env.PATH
+$env.PATH +
+$env.PATH = ($env.PATH | split row (char esep) | append '/some/path')
+$env.PATH
+$env.PATH = ($env.PATH | split row (char esep) | append '/25jaso/.cargo/bin')
+$env.PATH
+cargo
+ls
+exit
+cargo
+ls
+cd ~/.cargo/
+l
+ls
+cd bin/
+ls
+cargo
+cargo-clippy
+chmox +x *
+chmod +x *
+cargo
+which cargo
+ls
+eza
+$env.PATH
+config nu
+cargo
+rustup default stable
+cargo
+rustup default nightly
+cargo
+ls
+cd
+ls
+cd clones/Pumpkin/
+ls
+clear
+ls
+cd pump
+ls
+cargo run -C target-cpu=native --release
+clear
+ls
+ls -la
+cd pump
+which cd
+/usr/bin/cd
+/usr/bin/cd ~
+^cd
+ls
+cd
+ls
+brew install fzf
+cd pump 
+cd
+cd ~/clones/Pumpkin/
+ls
+cargo
+cd ~/clones/Pumpkin/
+git
+clear
+ls
+cargo run -C target-cpu=native --release
+mkdir school
+ls
+cd nvim
+nvim school/freedomwriters
+cd java
+ls
+mkdir jardrop
+cd jardrop/
+ls
+clear
+lsblk
+clear
+ls -la
+clear
+freetype-config 
+clear
+touch designdoc
+ls
+nvim Makefile
+make
+ls
+cd src/
+ls
+javac main.java
+make
+cd .
+..
+ls
+make
+mv src/main.java src/jardrop.java
+make
+nvim designdoc
+mv src/jardrop.java src/JarDrop.java
+mv src/jardrop.java src/JarDrop
+mv src/JarDrop src/JarDrop.java
+ls
+cd src/
+ls
+cat main.java
+cat JarDrop.java
+ls
+rm main.java
+vim JarDrop.java
+ls
+javac JarDrop.java
+java jardrop.class
+jar
+jar jardrop.class
+jar --help
+clear
+java --help
+java JarDrop
+clear
+..
+ls
+vim Makefile
+ls Makefile
+cat Makefile
+make
+cd src/
+java JarDrop
+cd ..
+vim Makefile
+ls
+make
+java --help
+java -cp ./src JarDrop
+vim Makefile
+make
+s
+clear
+make
+java -cp ./src JarDrop hello
+make
+vim build.sh
+chmod +x build.sh
+ls
+./build.sh
+vim ./build.sh
+bash
+ls
+./build.sh
+./build.sh
+vim build.sh
+./build.sh 
+./build.sh clinet
+ls
+rm Makefile
+ls
+make
+./build.sh server mode
+./build.sh server
+./build.sh
+./build.sh server
+./build.sh
+./build.sh s
+make
+./build.sh s
+./build.sh
+./build.sh
+./build.sh s
+./build.sh
+./build.sh s
+clear
+./build.sh s
+./build.sh
+clear
+./build.sh s
+./build.sh
+./build.sh s
+./build.sh
+./build.sh s
+vim build.sh
+./build.sh s
+./build.sh
+vim build.sh
+./build.sh 2
+cd nvim
+nvim src/JarDrop.java
+./build.sh
+./build.sh 2
+./build.sh
+cd java
+ls
+cd jardrop/
+ls
+./build.sh
+cd clones
+ls
+git clone https://github.com/datacron/project-lanterminal.git
+cd project-lanterminal/
+maven
+brew install maven
+maven
+ls
+cat README.md
+math tanh 
+math tanh | 5
+5 | math tanh
+clear
+ls
+cat pom.xmlm
+cat pom.xml
+cd src/
+ls
+cd main/java/bit/datacron/linkedIn/tms
+ls
+exit
+cd clonesls
+cd clones
+ls
+cd project-lanterminal/
+ls
+mvn
+mvn install
+~/.m2/repository/bit/datacron/linkedin/project-netuno/0.0.1-SNAPSHOT
+ls
+./project-netuno-0.0.1-SNAPSHOT.jar
+java ./project-netuno-0.0.1-SNAPSHOT.jar
+jar ./project-netuno-0.0.1-SNAPSHOT.jar
+jar --help
+jar -x ./project-netuno-0.0.1-SNAPSHOT.jar
+ls
+jar -xv ./project-netuno-0.0.1-SNAPSHOT.jar
+/Users/25jaso/.m2/repository/bit/datacron/linkedin/project-netuno/0.0.1-SNAPSHOT/project-netuno-0.0.1-SNAPSHOT.jar ; exit
+ls
+cd project-netuno-0.0.1-SNAPSHOT/
+ls
+cd bit/
+ls
+cd datacron/
+cd linkedIn/tms
+ls
+javac App.class
+java App.class
+java App
+cd gui/
+ls
+cd ..
+cd .
+cd ..
+ls
+java App
+ls
+java linkedIn
+ls
+cd 
+..
+l
+ls
+cd 25jaso/
+cd .m2/
+ls
+cd repository/
+ls
+cd bit/
+java bit
+cd datacron/linkedin/project-netuno/0.0.1-SNAPSHOT/_remote.repositories
+cd datacron/linkedin/project-netuno/maven-metadata-local.xml
+mvn
+cd datacron/linkedin/project-netuno/
+mvn
+mvn test
+cd
+cd clones/
+cd project-lanterminal/
+mvn test
+nvm
+mvn
+mvn run
+mvn compile
+ls
+cd target/
+ls
+cd classes/
+ls
+cd bit/datacron/linkedIn/tms/
+java App
+cd ..
+cd ../../../..
+ls
+java project-netuno-0.0.1-SNAPSHOT.jar
+java -jar project-netuno-0.0.1-SNAPSHOT.jar
+java -cp project-netuno-0.0.1-SNAPSHOT.jar com.example.MainClass
+cd nvim
+nvim .
+./build.sh 2
+./build.sh
+./build.sh 2
+./build.sh
+./build.sh 2
+clear
+clear
+./build.sh
+./build.sh 2
+clear
+clear
+./build.sh
+./build.sh 2
+clear
+clear
+./build.sh 2
+./build.sh
+clear
+clear
+./build.sh 2
+./build.sh
+ls
+cd
+cd dotfiles
+ls
+ls -la
+git add .
+git commit -m "probably java stuff in nvim"
+git push
+ls
+git init
+git add .
+git remote add origin git@github.com:jharlan-hash/jardrop.git
+git branch -M main<\n>
+git commit -m "initial"
+git push -u origin main
+ls
+rm src/ *.class
+rm src/*.class
+ls
+git add .
+git push
+git commit -m "remove some stuff"
+ls
+git push
+touch .gitignore
+nvim .gitignore
+git add .
+git commit -m "add gitignore"
+git push
+ls
+config nu
+ps | where cpu > 0
+ps | where mem > 0
+ps | where mem 
+ps
+ps | sort
+ps | sort --help
+ps | sort mem
+ps | sort -v
+ssh jsov-windows
+cd java
+ls
+cd jardrop/
+ls
+./build.sh conn 
+./build.sh
+./build.sh srv 22 127.0.0.1
+rm --help
+./build.sh srv 22 127.0.0.1
+nvim ./build.sh
+./build.sh srv 22 127.0.0.1
+./build.sh srv 127.0.0.1 22
+./build.sh conn 127.0.0.1 22
+clear
+./build.sh conn 127.0.0.1 22
+./build.sh srv 127.0.0.1 22
+./build.sh conn 127.0.0.1 22
+./build.sh conn 127.0.0.1 1000
+./build.sh srv 127.0.0.1 1000
+./build.sh conn 127.0.0.1 1000
+./build.sh srv 127.0.0.1 2398
+./build.sh conn 127.0.0.1 2398
+git add .
+git commit -m "add custom ip and port numbers + slight refactor"
+git push
+kill
+kill all
+kill --help
+kill *
+clear
+./build.sh srv 127.0.0.1 2398
+ls -la
+ls -a
+ls -a | sort modified
+clear
+cd jar
+ls
+clear
+rea
+read 
+clear
+cd 
+ls -a | select date
+ls -a 
+ls -a | select modified
+ls -a | select modified | sort
+ls -a | sort 
+ls -a | sort -v modified
+ls -a | grep 3 mon
+ls -a | grep "3 months"
+clear
+lear
+clear
+ls
+neofetch
+pfetch
+fastfetch
+clear
+./build.sh srv 127.0.0.1 2398
+1
+./build.sh srv 127.0.0.1 2398
+ls src/
+clear
+./build.sh srv 127.0.0.1 2398
+cd ..
+ls
+cp jardrop/ testing/
+mkdir test
+cp jardrop/ testing/
+cp jardrop/ test/
+cp -r jardrop/ test/
+ls
+cd test/
+ls
+mv jardrop/* .
+ls
+rm -rf jardrop/
+ls
+./build.sh
+./build.sh srv 127.0.0.1 2398
+./build.sh con 127.0.0.1 2398
+clear
+clear
+./build.sh con 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+./build.sh con 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+./build.sh con 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+clear
+clear
+./build.sh srv 127.0.0.1 2398
+./build.sh con 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+clear
+clear
+git add .
+git commit -m "start work on better exit method, more work on nametags"
+git push
+./build.sh srv 127.0.0.1 2398
+./build.sh con 127.0.0.1 2398
+git add .
+git commit -m "fix compile error"
+git push
+clear
+./build.sh con 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+./build.sh con 127.0.0.1 2398
+cler
+clear
+clear
+./build.sh srv 127.0.0.1 2398
+./build.sh con 127.0.0.1 2398
+clear
+clear
+./build.sh con 127.0.0.1 2398
+./build.sh server 127.0.0.1 2398
+./build.sh con 127.0.0.1 2398
+clear
+clear
+./build.sh con 127.0.0.1 2398
+./build.sh server 127.0.0.1 2398
+./build.sh con 127.0.0.1 2398
+./build.sh server 127.0.0.1 2398
+clear
+./build.sh server 127.0.0.1 2398
+clear
+./build.sh con 127.0.0.1 2398
+clear
+clear
+./build.sh server 127.0.0.1 2398
+./build.sh con 127.0.0.1 2398
+clear
+clear
+./build.sh con 127.0.0.1 2398
+./build.sh server 127.0.0.1 2398
+./build.sh con 127.0.0.1 2398
+./build.sh server 127.0.0.1 2398
+clear
+clear
+./build.sh con 127.0.0.1 2398
+./build.sh server 127.0.0.1 2398
+git add .
+git commit -m "still trying to get an instant quit on both sides after a /exit"
+git push
+cd jar
+ls
+cd src/
+ls
+rm *.class
+ls
+claer
+clear
+ls
+touch server.java
+touch client.java
+ls
+brew install howdoi
+howdoi call functions from another java file
+mv server.java Server.java
+ls
+mv server.java s
+mv s Server.java
+mv client.java c
+mv c Client.java
+ls
+mv client.java c
+mv c Client.java
+nvim JarDrop.java
+ls
+clear
+cd ..
+ls
+clear
+./build.sh server 127.0.0.1 2398
+cd nvim
+nvim JarDrop.java
+nvim .
+cd lua/
+ls
+cd theprimeagen/
+ls
+cd lazy/ls
+cd lazy/
+ls
+nvim .
+nvim -startuptime
+nvim --startuptime
+nvim -h
+nvim -i NONE
+nvim 
+nvim -i NONE
+nvim --headless
+nvim --startuptime startup.log<\n><\n>
+ls
+nvim startup.log
+rm startup.log
+nvim startup.log
+ls
+nvim .
+nvim 
+nvim .
+nvim JarDrop.java
+nvim .
+cd nvim 
+nvim .
+nvmi .
+clear
+cd jar
+ls
+ls al
+la
+lazygit
+ls
+brew install ripgrep
+brwe install fd
+brew install fd
+fd
+fd --help
+clear
+fd
+fd --help
+fd
+clear
+rg
+rg hello
+cat src/Server.java | rg srv
+cat src/Server.java | rg s
+cat src/Server.java | rg ser
+nvim 
+lear
+rm --help
+nvim .
+ls
+./build.sh
+javac JarDrop.java Client.java Server.java
+ls
+cd src/
+javac JarDrop.java Client.java Server.java
+ls
+java JarDrop
+java JarDrop con 1
+java JarDrop con 1 1
+ls
+rm *.class
+ls
+cd ..
+clear
+./build.sh connect 127.0.0.1 2398
+./build.sh server 127.0.0.1 2398
+clear
+clear
+./build.sh con 127.0.0.1 2398
+ls
+ls src/
+nvim .
+./build.sh srv 127.0.0.1 2398
+cat /dev/null
+ls /dev
+ls /dev | grep null
+/dev/null
+cat /dev/zero
+clear
+ls
+nvim build.sh
+cler
+clear
+ls src/
+cd clones
+ls
+git clone https://github.com/jharlan-hash/jardrop
+cd jardrop/
+ls
+cat src/
+cd src && ls
+cd src; ls
+./build.sh con 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+clear
+clear
+cat src/JarDrop.java
+ls
+clear
+clear
+nvim .
+ls
+cd src/
+ls
+rm *.class | /dev/null
+rm *.class >> /dev/null
+rm *.class > /dev/null
+rm *.class | /dev/null
+rm *.class >> /dev/null
+rm *.class out> /dev/null
+;s
+ls
+touch asd.class
+rm *.class out> /dev/null
+rm *.class out> /dev/null out> /dev/null
+rm *.class out> /dev/null
+out
+out>
+out> --help
+clear
+nvim .
+ls
+nvim JarDrop.java
+mv client.java c
+mv c Client.java
+ls
+./build.sh srv 127.0.0.1 2398
+cd clones
+ls
+nvim JarDrop.java
+ls
+mv server.java s
+mv s Server.java
+ls
+nvim JarDrop.java
+clear
+git add .
+git commit -m "separate into three different files"
+git push
+./build.sh con 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+clear
+./build.sh srv 127.0.0.1 2398
+./build.sh con 127.0.0.1 2398
+cd jar
+cd jar
+ls
+clear
+./build.sh con 127.0.0.1 2398
+clear
+./build.sh srv 127.0.0.1 2398
+./build.sh con 127.0.0.1 2398
+clear
+./build.sh con 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+git add .
+git commit -m "HUGE refactor - what was i thinking today?"
+git push
+cd nvim
+nvim .
+nvim Client.java
+rm *.class out> /dev/null
+ls
+nvim Client.java
+clear
+cd nvim
+ls lua/theprimeagen/lazy/autopairs.lua
+ls
+cd jar
+lsl
+ls
+ll
+ls
+claer
+cd nvim
+ls
+nvim src/Client.java
+nvim .
+nvim src/Client.java
+cd ../../..
+ls
+cd dotf
+ls
+git add .
+git commit -m "removed unused plugins, added :RecordKeymap, added copilot"
+git puhs
+git push
+git add .
+git commit -m "removed redundant comments and slight refactor work"
+git push
+cd jard
+cd jard
+ls
+clear
+./build.sh conn 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+clear
+clear
+./build.sh conn 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+claer
+clear
+clear
+./build.sh srv 127.0.0.1 2398
+clear
+./build.sh conn 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+clear
+clear
+./build.sh conn 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+clear
+clear
+./build.sh srv 127.0.0.1 2398
+./build.sh conn 127.0.0.1 2398
+helloclear
+clear
+cd clones
+ls
+./build.sh conn 127.0.0.1 2398
+clear
+clear
+./build.sh conn 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+rm src/*.class
+clear
+clear
+./build.sh conn 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+clear
+clear
+./build.sh srv 127.0.0.1 2398
+clear
+./build.sh srv 127.0.0.1 2398
+./build.sh conn 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+cclear
+clear
+clear
+./build.sh conn 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+clear
+clear
+./build.sh srv 127.0.0.1 2398
+./build.sh conn 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+clear
+./build.sh conn 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+./build.sh conn 127.0.0.1 2398
+clear
+clear
+./build.sh srv 127.0.0.1 2398
+./build.sh conn 127.0.0.1 2398
+clear
+./build.sh conn 127.0.0.1 2398
+clear
+clear
+./build.sh conn 127.0.0.1 2398
+./build.sh conn 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+./build.sh conn 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+./build.sh conn 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+clear
+clear
+./build.sh conn 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+rm src/*.class
+clear
+./build.sh conn 127.0.0.1 2398
+clear
+./build.sh conn 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+cd clones/jardrop
+ls
+./build.sh srv 127.0.0.1 2398
+./build.sh conn 127.0.0.1 2398
+clea
+./build.sh conn 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+clear
+clear
+./build.sh conn 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+clear
+claer
+clear
+./build.sh srv 127.0.0.1 2398
+./build.sh srv 127.0.0.1 2398
+./build.sh conn 127.0.0.1 2398
+nvim src/JarDrop.java
+./build.sh srv 127.0.0.1 2398
+./build.sh con 127.0.0.1 2398
+fn
+clear
+./build.sh con 127.0.0.1 2398
+./build.sh con 127.0.0.1 22
+./build.sh srv 127.0.0.1 22
+./build.sh con 127.0.0.1 23
+./build.sh srv 127.0.0.1 23
+clear
+clear
+./build.sh srv 127.0.0.1 23
+clear
+./build.sh srv 127.0.0.1 23
+clear
+./build.sh con 127.0.0.1 23
+./build.sh srv 127.0.0.1 23
+omg
+clear
+./build.sh srv 127.0.0.1 23
+clear
+./build.sh con 127.0.0.1 23
+./build.sh srv 127.0.0.1 23
+./build.sh srv 127.0.0.1 60000
+./build.sh srv 127.0.0.1 60000
+./build.sh con 127.0.0.1 60000
+./build.sh con 127.0.0.1 2153
+./build.sh srv 127.0.0.1 2153
+./build.sh con 127.0.0.1 2151
+clear
+clear
+git add .
+git commit -m "add shutdown method to die gracefully"
+git push
+./build.sh con 127.0.0.1 2153
+./build.sh srv 127.0.0.1 2153
+ifconfig
+clear
+ipconfig getifaddr en0
+./build.sh con 192.168.86.249 35235
+./build.sh con 173.29.108.50 2000
+./build.sh con 173.29.108.50 35665
+./build.sh con 173.29.108.50 25665
+./build.sh con 192.168.86.249 35235
+mvn
+ls
+cd ..
+ls
+ls
+cd ..
+ls
+mkdir JarDrop
+ls
+cd jardrop/
+ls
+cd ..
+ls
+mv jardrop/ old-jardrop
+ls
+ls old-jardrop/
+ls
+mkdir JarDrop
+ls
+cd JarDrop/
+l
+clear
+ls
+mkdir -p jardrop/src/main/java<\n>mkdir -p jardrop/src/test/java<\n>cd jardrop<\n>
+mkdir --help
+mkdir -v jardrop/src/main/java<\n>mkdir -v jardrop/src/test/java<\n>cd jardrop<\n>
+ls
+touch pom.xml
+nvim pom.xml
+ls
+cp ../../old-jardrop/src/*.java .
+ls
+cd ..
+ls
+cd ..
+mv JarDrop/ mega
+ls
+mv mega/jardrop/ .
+ls
+rmdir mega/
+cd jardrop/
+ls
+<?xml version="1.0" encoding="UTF-8"?><\n><project xmlns="http://maven.apache.org/POM/4.0.0"<\n>         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"<\n>         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"><\n>    <modelVersion>4.0.0</modelVersion><\n><\n>    <groupId>com.jardrop</groupId><\n>    <artifactId>jardrop</artifactId><\n>    <version>1.0-SNAPSHOT</version><\n><\n>    <properties><\n>        <maven.compiler.source>11</maven.compiler.source><\n>        <maven.compiler.target>11</maven.compiler.target><\n>        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding><\n>    </properties><\n><\n>    <dependencies><\n>        <dependency><\n>            <groupId>org.junit.jupiter</groupId><\n>            <artifactId>junit-jupiter</artifactId><\n>            <version>5.8.2</version><\n>            <scope>test</scope><\n>        </dependency><\n>        <dependency><\n>            <groupId>org.mockito</groupId><\n>            <artifactId>mockito-core</artifactId><\n>            <version>4.5.1</version><\n>            <scope>test</scope><\n>        </dependency><\n>        <dependency><\n>            <groupId>org.mockito</groupId><\n>            <artifactId>mockito-inline</artifactId><\n>            <version>4.5.1</version><\n>            <scope>test</scope><\n>        </dependency><\n>    </dependencies><\n><\n>    <build><\n>        <plugins><\n>            <plugin><\n>                <groupId>org.apache.maven.plugins</groupId><\n>                <artifactId>maven-surefire-plugin</artifactId><\n>                <version>2.22.2</version><\n>            </plugin><\n>        </plugins><\n>    </build><\n></project><\n>u
+mv JarDrop.java src/main/java/<\n>mv Client.java src/main/java/<\n>mv Server.java src/main/java/<\n>
+ls
+touch src/test/java/JarDropTest.java
+nvim src/test/java/JarDropTest.java
+cat ../old-jardrop/test.java out> src/test/java/JarDropTest.java
+cat src/test/java/JarDropTest.java
+ls
+mvn test
+nvim .
+ls
+mvn test
+ls
+touch error.txt
+mvn test out> error.txt
+cat error.txt
+ls
+nvim error.txt
+brew install openjdk@11
+java --version
+exit
+java --version
+brew install openjdk@11
+brew reinstall openjdk@11
+brew list
+brew list | opend
+brew list | open
+brew list | grep open
+brew uninstall openjdk
+mvn --help
+nvim .
+mvn -v
+$env.JAVA_HOME
+which java
+/usr/bin/java --help
+clea
+clear
+cd opt
+cd /opt/homebrew/
+/opt/homebrew/Cellar/openjdk@11/11.0.25/bin/java
+/opt/homebrew/Cellar/openjdk@11/11.0.25/bin/java --version
+$env.JAVA_HOME = /opt/homebrew/Cellar/openjdk@11/11.0.25/bin/java
+$env.JAVA_HOME = "/opt/homebrew/Cellar/openjdk@11/11.0.25/bin/java" + mvn
+$env.JAVA_HOME = "/opt/homebrew/Cellar/openjdk@11/11.0.25/bin/java" && mvn
+$env.JAVA_HOME = "/opt/homebrew/Cellar/openjdk@11/11.0.25/bin/java" and mvn
+$env.JAVA_HOME = "/opt/homebrew/Cellar/openjdk@11/11.0.25/bin/java"; mvn
+bash
+zsh
+clear
+JAVA_HOME=$"($(/usr/libexec/java_home -v 11))" mvn test
+ls
+JAVA_HOME=$"($/opt/homebrew/Cellar/openjdk@11/11.0.25/bin/java)" mvn test
+JAVA_HOME=$"/opt/homebrew/Cellar/openjdk@11/11.0.25/bin/java" mvn test
+let-env JAVA_HOME = ("/opt/homebrew/Cellar/openjdk@11/11.0.25/bin/java") and mvn test
+let-env JAVA_HOME = ("/opt/homebrew/Cellar/openjdk@11/11.0.25/bin/java") and mvn
+let-env JAVA_HOME = ("/opt/homebrew/Cellar/openjdk@11/11.0.25/bin/java"); mvn test
+let-env JAVA_HOME = "/opt/homebrew/Cellar/openjdk@11/11.0.25/bin/java"; mvn test
+$env.JAVA_HOME = "/opt/homebrew/Cellar/openjdk@11/11.0.25/bin/java"; mvn test
+$env.JAVA_HOME = '/opt/homebrew/Cellar/openjdk@11/11.0.25/bin/java'; mvn test
+/usr/libexec/java_home 
+sudo ln -sfn /opt/homebrew/opt/openjdk@11/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk-11.jdk
+/usr/libexec/java_home 
+/usr/libexec/java_home -v 1
+/usr/libexec/java_home -v 11
+ls
+JAVA_HOME=$"($(/usr/libexec/java_home -v 11))" mvn test
+let java11_home = (/usr/libexec/java_home -v 11 | str trim)<\n>with-env [JAVA_HOME $java11_home] { mvn test }
+/usr/libexec/java_home -v
+/usr/libexec/java_home -v 11
+let java11_home = (/usr/libexec/java_home -v 11 | str trim)<\n>with-env [JAVA_HOME $java11_home] { mvn test }<\n>
+zsh
+ls
+rm error.txt
+nvim .
+mvn test
+clear
+mvn test
+$env.JAVA_HOME
+hide-env JAVA_HOME
+hide-env JAVA_HOME mvn test
+hide-env JAVA_HOME and mvn test
+hide-env JAVA_HOME; mvn test
+ls
+nvim pom.xml
+mvn test
+mvn test out> error.txt
+nvim error.txt
+rm error.txt
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/3.2.2/maven-surefire-common-3.2.2.jar (309 kB at 2.5 MB/s)<\n>Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/3.2.2/surefire-api-3.2.2.jar<\n>Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/3.2.2/surefire-logger-api-3.2.2.jar<\n>Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-extensions-api/3.2.2/surefire-extensions-api-3.2.2.jar<\n>Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/3.2.2/surefire-booter-3.2.2.jar<\n>Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-extensions-spi/3.2.2/surefire-extensions-spi-3.2.2.jar<\n>Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/3.2.2/surefire-booter-3.2.2.jar (118 kB at 2.4 MB/s)<\n>Downloading from central: https://repo.maven.apache.org/maven2/commons-io/commons-io/2.12.0/commons-io-2.12.0.jar<\n>Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/3.2.2/surefire-api-3.2.2.jar (171 kB at 3.2 MB/s)<\n>Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-shared-utils/3.2.2/surefire-shared-utils-3.2.2.jar<\n>Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-extensions-spi/3.2.2/surefire-extensions-spi-3.2.2.jar (8.2 kB at 82 kB/s)<\n>Downloaded from central: https://repo.maven.apache.org/maven2/commons-io/commons-io/2.12.0/commons-io-2.12.0.jar (474 kB at 3.3 MB/s)<\n>Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-extensions-api/3.2.2/surefire-extensions-api-3.2.2.jar (26 kB at 173 kB/s)<\n>Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/3.2.2/surefire-logger-api-3.2.2.jar (14 kB at 73 kB/s)<\n>Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-shared-utils/3.2.2/surefire-shared-utils-3.2.2.jar (2.3 MB at 11 MB/s)<\n>[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider<\n>Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit-platform/3.2.2/surefire-junit-platform-3.2.2.pom<\n>Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit-platform/3.2.2/surefire-junit-platform-3.2.2.pom (4.5 kB at 90 kB/s)<\n>Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/3.2.2/surefire-providers-3.2.2.pom<\n>Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/3.2.2/surefire-providers-3.2.2.pom (2.5 kB at 60 kB/s)<\n>Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/common-java5/3.2.2/common-java5-3.2.2.pom<\n>Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/common-java5/3.2.2/common-java5-3.2.2.pom (2.7 kB at 64 kB/s)<\n>Downloading from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.9.3/junit-platform-launcher-1.9.3.pom<\n>Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.9.3/junit-platform-launcher-1.9.3.pom (3.0 kB at 72 kB/s)<\n>Downloading from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.9.3/junit-platform-engine-1.9.3.pom<\n>Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.9.3/junit-platform-engine-1.9.3.pom (3.2 kB at 80 kB/s)<\n>Downloading from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.9.3/junit-platform-commons-1.9.3.pom<\n>Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.9.3/junit-platform-commons-1.9.3.pom (2.8 kB at 71 kB/s)<\n>Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit-platform/3.2.2/surefire-junit-platform-3.2.2.jar<\n>Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit-platform/3.2.2/surefire-junit-platform-3.2.2.jar (27 kB at 496 kB/s)<\n>Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/common-java5/3.2.2/common-java5-3.2.2.jar<\n>Downloading from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.9.3/junit-platform-launcher-1.9.3.jar<\n>Downloading from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.9.3/junit-platform-engine-1.9.3.jar<\n>Downloading from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.9.3/junit-platform-commons-1.9.3.jar<\n>Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/common-java5/3.2.2/common-java5-3.2.2.jar (18 kB at 358 kB/s)<\n>Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.9.3/junit-platform-engine-1.9.3.jar (189 kB at 3.9 MB/s)<\n>Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.9.3/junit-platform-commons-1.9.3.jar (103 kB at 2.0 MB/s)<\n>Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.9.3/junit-platform-launcher-1.9.3.jar (169 kB at 2.3 MB/s)<\n>Downloading from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.10.1/junit-platform-launcher-1.10.1.pom<\n>Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.10.1/junit-platform-launcher-1.10.1.pom (3.0 kB at 57 kB/s)<\n>Downloading from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.10.1/junit-platform-launcher-1.10.1.jar<\n>Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.10.1/junit-platform-launcher-1.10.1.jar (184 kB at 1.8 MB/s)<\n>[INFO]<\n>[INFO] -------------------------------------------------------<\n>[INFO]  T E S T S<\n>[INFO] -------------------------------------------------------<\n>[INFO] Running ClientTest<\n>WARNING: A Java agent has been loaded dynamically (/Users/25jaso/.m2/repository/net/bytebuddy/byte-buddy-agent/1.14.9/byte-buddy-agent-1.14.9.jar)<\n>WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning<\n>WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information<\n>WARNING: Dynamic loading of agents will be disallowed by default in a future release<\n>OpenJDK 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended<\n>[ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.785 s <<< FAILURE! -- in ClientTest<\n>[ERROR] ClientTest.testClientModeConnection -- Time elapsed: 0.766 s <<< ERROR!<\n>org.mockito.exceptions.base.MockitoException:<\n><\n>Mockito cannot mock this class: class java.net.Socket.<\n><\n>If you're not sure why you're getting this error, please open an issue on GitHub.<\n><\n><\n>Java               : 23<\n>JVM vendor name    : Homebrew<\n>JVM vendor version : 23.0.1<\n>JVM name           : OpenJDK 64-Bit Server VM<\n>JVM version        : 23.0.1<\n>JVM info           : mixed mode, sharing<\n>OS name            : Mac OS X<\n>OS version         : 15.1<\n><\n><\n>You are seeing this disclaimer because Mockito is configured to create inlined mocks.<\n>You can learn about inline mocks and their limitations under item #39 of the Mockito class javadoc.<\n><\n>Underlying exception : org.mockito.exceptions.base.MockitoException: Could not modify all classes [interface java.lang.AutoCloseable, interface java.io.Closeable, class java.net.Socket, class java.lang.Object]<\n>        at ClientTest.testClientModeConnection(JarDropTest.java:69)<\n>        at java.base/java.lang.reflect.Method.invoke(Method.java:580)<\n>        at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)<\n>        at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)<\n>Caused by: org.mockito.exceptions.base.MockitoException: Could not modify all classes [interface java.lang.AutoCloseable, interface java.io.Closeable, class java.net.Socket, class java.lang.Object]<\n>        at net.bytebuddy.TypeCache.findOrInsert(TypeCache.java:168)<\n>        at net.bytebuddy.TypeCache$WithInlineExpunction.findOrInsert(TypeCache.java:399)<\n>        at net.bytebuddy.TypeCache.findOrInsert(TypeCache.java:190)<\n>        at net.bytebuddy.TypeCache$WithInlineExpunction.findOrInsert(TypeCache.java:410)<\n>        ... 4 more<\n>Caused by: java.lang.IllegalStateException:<\n>Byte Buddy could not instrument all classes within the mock's type hierarchy<\n><\n>This problem should never occur for javac-compiled classes. This problem has been observed for classes that are:<\n> - Compiled by older versions of scalac<\n> - Classes that are part of the Android distribution<\n>        at org.mockito.internal.creation.bytebuddy.InlineBytecodeGenerator.triggerRetransformation(InlineBytecodeGenerator.java:285)<\n>        at org.mockito.internal.creation.bytebuddy.InlineBytecodeGenerator.mockClass(InlineBytecodeGenerator.java:218)<\n>        at org.mockito.internal.creation.bytebuddy.TypeCachingBytecodeGenerator.lambda$mockClass$0(TypeCachingBytecodeGenerator.java:78)<\n>        at net.bytebuddy.TypeCache.findOrInsert(TypeCache.java:168)<\n>        at net.bytebuddy.TypeCache$WithInlineExpunction.findOrInsert(TypeCache.java:399)<\n>        at net.bytebuddy.TypeCache.findOrInsert(TypeCache.java:190)<\n>        at net.bytebuddy.TypeCache$WithInlineExpunction.findOrInsert(TypeCache.java:410)<\n>        at org.mockito.internal.creation.bytebuddy.TypeCachingBytecodeGenerator.mockClass(TypeCachingBytecodeGenerator.java:75)<\n>        at org.mockito.internal.creation.bytebuddy.InlineDelegateByteBuddyMockMaker.createMockType(InlineDelegateByteBuddyMockMaker.java:412)<\n>        at org.mockito.internal.creation.bytebuddy.InlineDelegateByteBuddyMockMaker.doCreateMock(InlineDelegateByteBuddyMockMaker.java:371)<\n>        at org.mockito.internal.creation.bytebuddy.InlineDelegateByteBuddyMockMaker.createMock(InlineDelegateByteBuddyMockMaker.java:350)<\n>        at org.mockito.internal.creation.bytebuddy.InlineByteBuddyMockMaker.createMock(InlineByteBuddyMockMaker.java:56)<\n>        at org.mockito.internal.util.MockUtil.createMock(MockUtil.java:99)<\n>        at org.mockito.internal.MockitoCore.mock(MockitoCore.java:88)<\n>        at org.mockito.Mockito.mock(Mockito.java:2101)<\n>        at org.mockito.Mockito.mock(Mockito.java:2016)<\n>        ... 4 more<\n>Caused by: java.lang.IllegalArgumentException: Java 23 (67) is not supported by the current version of Byte Buddy which officially supports Java 22 (66) - update Byte Buddy or set net.bytebuddy.experimental as a VM property<\n>        at net.bytebuddy.utility.OpenedClassReader.of(OpenedClassReader.java:100)<\n>        at net.bytebuddy.dynamic.scaffold.TypeWriter$Default$ForInlining.create(TypeWriter.java:4011)<\n>        at net.bytebuddy.dynamic.scaffold.TypeWriter$Default.make(TypeWriter.java:2224)<\n>        at net.bytebuddy.dynamic.DynamicType$Builder$AbstractBase$UsingTypeWriter.make(DynamicType.java:4055)<\n>        at net.bytebuddy.dynamic.DynamicType$Builder$AbstractBase.make(DynamicType.java:3739)<\n>        at org.mockito.internal.creation.bytebuddy.InlineBytecodeGenerator.transform(InlineBytecodeGenerator.java:402)<\n>        at java.instrument/java.lang.instrument.ClassFileTransformer.transform(ClassFileTransformer.java:242)<\n>        at java.instrument/sun.instrument.TransformerManager.transform(TransformerManager.java:188)<\n>        at java.instrument/sun.instrument.InstrumentationImpl.transform(InstrumentationImpl.java:610)<\n>        at java.instrument/sun.instrument.InstrumentationImpl.retransformClasses0(Native Method)<\n>        at java.instrument/sun.instrument.InstrumentationImpl.retransformClasses(InstrumentationImpl.java:225)<\n>        at org.mockito.internal.creation.bytebuddy.InlineBytecodeGenerator.triggerRetransformation(InlineBytecodeGenerator.java:281)<\n>        ... 19 more<\n><\n>[INFO] Running ServerTest<\n>[ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.029 s <<< FAILURE! -- in ServerTest<\n>[ERROR] ServerTest.testServerModeAccept -- Time elapsed: 0.026 s <<< ERROR!<\n>org.mockito.exceptions.base.MockitoException:<\n><\n>Mockito cannot mock this class: class java.net.ServerSocket.<\n><\n>If you're not sure why you're getting this error, please open an issue on GitHub.<\n><\n><\n>Java               : 23<\n>JVM vendor name    : Homebrew<\n>JVM vendor version : 23.0.1<\n>JVM name           : OpenJDK 64-Bit Server VM<\n>JVM version        : 23.0.1<\n>JVM info           : mixed mode, sharing<\n>OS name            : Mac OS X<\n>OS version         : 15.1<\n><\n><\n>You are seeing this disclaimer because Mockito is configured to create inlined mocks.<\n>You can learn about inline mocks and their limitations under item #39 of the Mockito class javadoc.<\n><\n>Underlying exception : org.mockito.exceptions.base.MockitoException: Could not modify all classes [interface java.lang.AutoCloseable, interface java.io.Closeable, class java.lang.Object, class java.net.ServerSocket]<\n>        at ServerTest.testServerModeAccept(JarDropTest.java:87)<\n>        at java.base/java.lang.reflect.Method.invoke(Method.java:580)<\n>        at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)<\n>        at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)<\n>Caused by: org.mockito.exceptions.base.MockitoException: Could not modify all classes [interface java.lang.AutoCloseable, interface java.io.Closeable, class java.lang.Object, class java.net.ServerSocket]<\n>        at net.bytebuddy.TypeCache.findOrInsert(TypeCache.java:168)<\n>        at net.bytebuddy.TypeCache$WithInlineExpunction.findOrInsert(TypeCache.java:399)<\n>        at net.bytebuddy.TypeCache.findOrInsert(TypeCache.java:190)<\n>        at net.bytebuddy.TypeCache$WithInlineExpunction.findOrInsert(TypeCache.java:410)<\n>        ... 4 more<\n>Caused by: java.lang.IllegalStateException:<\n>Byte Buddy could not instrument all classes within the mock's type hierarchy<\n><\n>This problem should never occur for javac-compiled classes. This problem has been observed for classes that are:<\n> - Compiled by older versions of scalac<\n> - Classes that are part of the Android distribution<\n>        at org.mockito.internal.creation.bytebuddy.InlineBytecodeGenerator.triggerRetransformation(InlineBytecodeGenerator.java:285)<\n>        at org.mockito.internal.creation.bytebuddy.InlineBytecodeGenerator.mockClass(InlineBytecodeGenerator.java:218)<\n>        at org.mockito.internal.creation.bytebuddy.TypeCachingBytecodeGenerator.lambda$mockClass$0(TypeCachingBytecodeGenerator.java:78)<\n>        at net.bytebuddy.TypeCache.findOrInsert(TypeCache.java:168)<\n>        at net.bytebuddy.TypeCache$WithInlineExpunction.findOrInsert(TypeCache.java:399)<\n>        at net.bytebuddy.TypeCache.findOrInsert(TypeCache.java:190)<\n>        at net.bytebuddy.TypeCache$WithInlineExpunction.findOrInsert(TypeCache.java:410)<\n>        at org.mockito.internal.creation.bytebuddy.TypeCachingBytecodeGenerator.mockClass(TypeCachingBytecodeGenerator.java:75)<\n>        at org.mockito.internal.creation.bytebuddy.InlineDelegateByteBuddyMockMaker.createMockType(InlineDelegateByteBuddyMockMaker.java:412)<\n>        at org.mockito.internal.creation.bytebuddy.InlineDelegateByteBuddyMockMaker.doCreateMock(InlineDelegateByteBuddyMockMaker.java:371)<\n>        at org.mockito.internal.creation.bytebuddy.InlineDelegateByteBuddyMockMaker.createMock(InlineDelegateByteBuddyMockMaker.java:350)<\n>        at org.mockito.internal.creation.bytebuddy.InlineByteBuddyMockMaker.createMock(InlineByteBuddyMockMaker.java:56)<\n>        at org.mockito.internal.util.MockUtil.createMock(MockUtil.java:99)<\n>        at org.mockito.internal.MockitoCore.mock(MockitoCore.java:88)<\n>        at org.mockito.Mockito.mock(Mockito.java:2101)<\n>        at org.mockito.Mockito.mock(Mockito.java:2016)<\n>        ... 4 more<\n>Caused by: java.lang.IllegalArgumentException: Java 23 (67) is not supported by the current version of Byte Buddy which officially supports Java 22 (66) - update Byte Buddy or set net.bytebuddy.experimental as a VM property<\n>        at net.bytebuddy.utility.OpenedClassReader.of(OpenedClassReader.java:100)<\n>        at net.bytebuddy.dynamic.scaffold.TypeWriter$Default$ForInlining.create(TypeWriter.java:4011)<\n>        at net.bytebuddy.dynamic.scaffold.TypeWriter$Default.make(TypeWriter.java:2224)<\n>        at net.bytebuddy.dynamic.DynamicType$Builder$AbstractBase$UsingTypeWriter.make(DynamicType.java:4055)<\n>        at net.bytebuddy.dynamic.DynamicType$Builder$AbstractBase.make(DynamicType.java:3739)<\n>        at org.mockito.internal.creation.bytebuddy.InlineBytecodeGenerator.transform(InlineBytecodeGenerator.java:402)<\n>        at java.instrument/java.lang.instrument.ClassFileTransformer.transform(ClassFileTransformer.java:242)<\n>        at java.instrument/sun.instrument.TransformerManager.transform(TransformerManager.java:188)<\n>        at java.instrument/sun.instrument.InstrumentationImpl.transform(InstrumentationImpl.java:610)<\n>        at java.instrument/sun.instrument.InstrumentationImpl.retransformClasses0(Native Method)<\n>        at java.instrument/sun.instrument.InstrumentationImpl.retransformClasses(InstrumentationImpl.java:225)<\n>        at org.mockito.internal.creation.bytebuddy.InlineBytecodeGenerator.triggerRetransformation(InlineBytecodeGenerator.java:281)<\n>        ... 19 more<\n><\n>[INFO] Running JarDropTest<\n>[INFO]<\n>[INFO] Results:<\n>[INFO]<\n>[ERROR] Errors:<\n>[ERROR]   ClientTest.testClientModeConnection:69 Mockito<\n>Mockito cannot mock this class: class java.net.Socket.<\n><\n>If you're not sure why you're getting this error, please open an issue on GitHub.<\n><\n><\n>Java               : 23<\n>JVM vendor name    : Homebrew<\n>JVM vendor version : 23.0.1<\n>JVM name           : OpenJDK 64-Bit Server VM<\n>JVM version        : 23.0.1<\n>JVM info           : mixed mode, sharing<\n>OS name            : Mac OS X<\n>OS version         : 15.1<\n><\n><\n>You are seeing this disclaimer because Mockito is configured to create inlined mocks.<\n>You can learn about inline mocks and their limitations under item #39 of the Mockito class javadoc.<\n><\n>Underlying exception : org.mockito.exceptions.base.MockitoException: Could not modify all classes [interface java.lang.AutoCloseable, interface java.io.Closeable, class java.net.Socket, class java.lang.Object]<\n>[ERROR]   ServerTest.testServerModeAccept:87 Mockito<\n>Mockito cannot mock this class: class java.net.ServerSocket.<\n><\n>If you're not sure why you're getting this error, please open an issue on GitHub.<\n><\n><\n>Java               : 23<\n>JVM vendor name    : Homebrew<\n>JVM vendor version : 23.0.1<\n>JVM name           : OpenJDK 64-Bit Server VM<\n>JVM version        : 23.0.1<\n>JVM info           : mixed mode, sharing<\n>OS name            : Mac OS X<\n>OS version         : 15.1<\n><\n><\n>You are seeing this disclaimer because Mockito is configured to create inlined mocks.<\n>You can learn about inline mocks and their limitations under item #39 of the Mockito class javadoc.<\n><\n>Underlying exception : org.mockito.exceptions.base.MockitoException: Could not modify all classes [interface java.lang.AutoCloseable, interface java.io.Closeable, class java.lang.Object, class java.net.ServerSocket]<\n>[INFO]<\n>[ERROR] Tests run: 2, Failures: 0, Errors: 2, Skipped: 0<\n>[INFO]<\n>[INFO] ------------------------------------------------------------------------<\n>[INFO] BUILD FAILURE<\n>[INFO] ------------------------------------------------------------------------<\n>[INFO] Total time:  7.911 s<\n>[INFO] Finished at: 2024-11-13T20:30:24-06:00<\n>[INFO] ------------------------------------------------------------------------<\n>[ERROR] Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:3.2.2:test (default-test) on project jardrop:<\n>[ERROR]<\n>[ERROR] Please refer to /Users/25jaso/projects/java/jardrop/target/surefire-reports for the individual test results.<\n>[ERROR] Please refer to dump files (if any exist) [date].dump, [date]-jvmRun[N].dump and [date].dumpstream.<\n>[ERROR] The forked VM terminated without properly saying goodbye. VM crash or System.exit called?<\n>[ERROR] Command was /bin/sh -c cd '/Users/25jaso/projects/java/jardrop' && '/opt/homebrew/Cellar/openjdk/23.0.1/libexec/openjdk.jdk/Contents/Home/bin/java' '-jar' '/Users/25jaso/projects/java/jardrop/target/surefire/surefirebooter-20241113203021628_3.jar' '/Users/25jaso/projects/java/jardrop/target/surefire' '2024-11-13T20-30-20_911-jvmRun1' 'surefire-20241113203021628_1tmp' 'surefire_0-20241113203021628_2tmp'<\n>[ERROR] Error occurred in starting fork, check output in log<\n>[ERROR] Process Exit Code: 1<\n>[ERROR] Crashed tests:<\n>[ERROR] JarDropTest<\n>[ERROR] org.apache.maven.surefire.booter.SurefireBooterForkException: The forked VM terminated without properly saying goodbye. VM crash or System.exit called?<\n>[ERROR] Command was /bin/sh -c cd '/Users/25jaso/projects/java/jardrop' && '/opt/homebrew/Cellar/openjdk/23.0.1/libexec/openjdk.jdk/Contents/Home/bin/java' '-jar' '/Users/25jaso/projects/java/jardrop/target/surefire/surefirebooter-20241113203021628_3.jar' '/Users/25jaso/projects/java/jardrop/target/surefire' '2024-11-13T20-30-20_911-jvmRun1' 'surefire-20241113203021628_1tmp' 'surefire_0-20241113203021628_2tmp'<\n>[ERROR] Error occurred in starting fork, check output in log<\n>[ERROR] Process Exit Code: 1<\n>[ERROR] Crashed tests:<\n>[ERROR] JarDropTest<\n>[ERROR]         at org.apache.maven.plugin.surefire.booterclient.ForkStarter.fork(ForkStarter.java:643)<\n>[ERROR]         at org.apache.maven.plugin.surefire.booterclient.ForkStarter.run(ForkStarter.java:285)<\n>[ERROR]         at org.apache.maven.plugin.surefire.booterclient.ForkStarter.run(ForkStarter.java:250)<\n>[ERROR]         at org.apache.maven.plugin.surefire.AbstractSurefireMojo.executeProvider(AbstractSurefireMojo.java:1240)<\n>[ERROR]         at org.apache.maven.plugin.surefire.AbstractSurefireMojo.executeAfterPreconditionsChecked(AbstractSurefireMojo.java:1089)<\n>[ERROR]         at org.apache.maven.plugin.surefire.AbstractSurefireMojo.execute(AbstractSurefireMojo.java:905)<\n>[ERROR]         at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:126)<\n>[ERROR]         at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2(MojoExecutor.java:328)<\n>[ERROR]         at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute(MojoExecutor.java:316)<\n>[ERROR]         at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:212)<\n>[ERROR]         at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:174)<\n>[ERROR]         at org.apache.maven.lifecycle.internal.MojoExecutor.access$000(MojoExecutor.java:75)<\n>[ERROR]         at org.apache.maven.lifecycle.internal.MojoExecutor$1.run(MojoExecutor.java:162)<\n>[ERROR]         at org.apache.maven.plugin.DefaultMojosExecutionStrategy.execute(DefaultMojosExecutionStrategy.java:39)<\n>[ERROR]         at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:159)<\n>[ERROR]         at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:105)<\n>[ERROR]         at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:73)<\n>[ERROR]         at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:53)<\n>[ERROR]         at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:118)<\n>[ERROR]         at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:261)<\n>[ERROR]         at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:173)<\n>[ERROR]         at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:101)<\n>[ERROR]         at org.apache.maven.cli.MavenCli.execute(MavenCli.java:906)<\n>[ERROR]         at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:283)<\n>[ERROR]         at org.apache.maven.cli.MavenCli.main(MavenCli.java:206)<\n>[ERROR]         at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)<\n>[ERROR]         at java.base/java.lang.reflect.Method.invoke(Method.java:580)<\n>[ERROR]         at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:255)<\n>[ERROR]         at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:201)<\n>[ERROR]         at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:361)<\n>[ERROR]         at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:314)<\n>[ERROR]<\n>[ERROR] -> [Help 1]<\n>[ERROR]<\n>[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.<\n>[ERROR] Re-run Maven using the -X switch to enable full debug logging.<\n>[ERROR]<\n>[ERROR] For more information about the errors and possible solutions, please read the following articles:<\n>[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException:q
+clear
+let java11_home = (/usr/libexec/java_home -v 11 | str trim)<\n>with-env [JAVA_HOME $java11_home] { mvn test -Dnet.bytebuddy.experimental=true }<\n>
+let java11_home = (/usr/libexec/java_home -v 11 | str trim)<\n>with-env { JAVA_HOME: $java11_home } { mvn test -Dnet.bytebuddy.experimental=true }<\n>
+clear
+nvim .
+let java11_home = (/usr/libexec/java_home -v 11 | str trim)<\n>with-env { JAVA_HOME: $java11_home } { mvn test -Dnet.bytebuddy.experimental=true }<\n>
+cd ..
+ls
+rm jardrop/
+rm -rf jardrop/
+ls
+mv old-jardrop/ JarDrop
+cd JarDrop/
+ls
+cat designdoc.md
+rm designdoc.md
+ls
+nvim test.java
+cd nvim
+./build.sh con 192.168.86.249 35235
+./build.sh srv localhost 10000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+curl wttr.in/Decorah
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+git add .
+git commit -m "begin to add server / client functionality"
+git push
+./build.sh con localhost 1000
+clear
+./build.sh src localhost 1000
+./build.sh sr v localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+git add 
+git add .
+git commit -m "finish two client connection mode"
+git push
+./build.sh srv localhost 1000
+ls
+rm thinking.md
+ls
+cat build.sh
+nvim build.sh
+./build.sh srv localhost 1000
+./build.sh
+nvim build.sh
+./build.sh
+rm src/*.class
+./build.sh
+nvim build.sh
+./build.sh
+ls
+ncdu
+du
+nc
+clear
+clear
+zoxide
+z
+zo
+zx
+cd
+cd --help
+brew install zocide
+brew install zoxide
+ls
+ls /opt/
+/opt/homebrew/bin/zoxide
+config nu
+nvim ~/.zoxide.nu
+nvim
+vim
+ls
+cd
+vim ~/.zoxide.nu
+id
+sudo
+nvim
+/opt/homebrew/
+config env
+echo $env.HOME
+echo $env.PATH
+$env.PATH = ($env.PATH | split row (char esep) | append '/opt/homebrew/bin/')
+nvim
+cd
+config nu
+config env
+brew
+exit
+ls
+nvim
+cd --help
+cd jar
+ls
+nvim build.sh
+./build.sh srv localhost 1000
+rm src/*.class
+ls
+ls src/
+./build.sh srv localhost 1000
+cd jar
+cd jar
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+cd clones
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh srv ip 1000
+./build.sh con self 1000
+./build.sh srv self 1000
+./build.sh con self 1000
+cd
+ssh jack@sovern
+clear
+ssh jack@sovern
+ssh 192.56.226.196
+ssh jack@raspberrypi
+ssh
+ssh --help
+git add .
+git commit -m "add self modifier for easy ip"
+git push
+clear
+./build.sh con 192.168.86.245 1000
+./build.sh con 192.168.86.245 25565
+./build.sh con 192.168.86.245 25665
+./build.sh con 192.168.86.245 25665
+./build.sh con 173.29.108.50 25665
+./build.sh con 173.29.108.50 22
+cd .dotfiles/
+ls
+ls .config/nvim/lua/theprimeagen/lazy/
+git add .
+git commit -m "idk what i added"
+git push
+nvim
+brew uninstall neovim
+nvim
+./build.sh con 173.29.108.50 25565
+ssh jack@raspberrypi
+./build.sh srv self 1000
+hostname
+hostname --help
+hostname -f
+hostname -s
+hostname -d
+hostname -s
+hostname -s 10.2.114.83
+hostname -s
+./build.sh con 10.2.114.83 1000
+./build.sh con 10.2.114.83 1000
+cd clones/jardrop
+./build.sh srv self 1000
+curl ipinfo.io
+curl ipinfo.io | grep ip
+sudo traceroute -I google.com | awk -F '[ ]' '{ if ( $2 ="2" ) { print $5 } }'
+sudo traceroute -I card-bot.com | awk -F '[ ]' '{ if ( $2 ="2" ) { print $5 } }'
+clear
+ls -lafhsh
+ls -m
+git add .
+git commit -m "specified imports"
+git push
+safaridriver 
+safaridriver -p 0
+safaridriver --enable-p 0
+safaridriver --enable -p 0
+safaridriver --enable-p 0
+safaridriver --enable -p 0
+id
+fish
+safaridriver --enable -p 0
+nvim .
+ls
+touch combined.java
+rm combined.java
+touch combines
+touch combined
+rm combines
+cat src/*.java out> combined
+clientSocketTwo
+secondClientSocket
+nvim combined
+:q
+clear
+cat src/*.java out> combined
+cat combined
+nvim combined
+cat src/*.java out> combined
+./build.sh con 10.2.114.83 1000
+./build.sh srv self 1000
+./build.sh con 10.2.114.83 1000
+clear
+ls
+cd src/
+ls
+javac RSA.java
+ls
+java RSA.class
+java RSA
+nvim RSA.java
+javac RSA.java
+ls
+java RSA
+javac RSA.java
+java RSA
+javac RSA.java
+java RSA
+javac RSA.java
+java RSA
+javac RSA.java
+java RSA
+cd ..
+ls
+rm combined
+nvim build.sh
+./build.sh srv self 1000
+./build.sh srv local 1000
+./build.sh con 10.2.114.83 1000
+./build.sh con 10.2.114.83 1000
+./build.sh srv local 1000
+./build.sh con 10.2.114.83 1000
+./build.sh con 10.2.114.83 1000
+./build.sh con 10.2.114.83 1000
+./build.sh srv local 1000
+./build.sh con 10.2.114.83 1000
+./build.sh srv local 1000
+./build.sh con 10.2.114.83 1000
+./build.sh con 10.2.114.83 1000
+ssh root@10.2.114.83
+su
+ssh root@10.2.114.83
+ssh root@10.2.114.3
+ssh root@12-Roffman-23019
+ssh root@12-Roffman-23019.local
+./build.sh con 10.2.114.83 1000
+cd jar
+./build.sh srv local 1000
+./build.sh con 10.2.114.83 1000
+./build.sh con 10.2.114.83 1000
+java RSA
+javac RSA.java
+cd src/
+javac RSA.java
+java RSA
+javac RSA.java
+java RSA
+javac RSA.java
+java RSA
+javac RSA.java
+java RSA
+javac RSA.java
+java RSA
+./build.sh sr 10.2.114.83 1000
+./build.sh srv 10.2.114.83 1000
+cd ..
+clear
+clear
+./build.sh con 10.2.114.83 1000
+./build.sh srv 10.2.114.83 1000
+./build.sh con 10.2.114.83 1000
+ls
+cd ..
+ls
+git clone https://github.com/jharlan-hash/jardrop
+git clone https://github.com/jharlan-hash/jardrop chatUtils
+cd chatUtils/
+ls
+nvim src/
+./build.sh srv 10.2.114.83 1000
+./build.sh srv 10.2.114.83 1000
+cd ..
+cd JarDrop/
+cd chat
+cd chat
+./build.sh con 10.2.114.83 1000
+./build.sh con 10.2.114.83 1000
+nvim src/
+ls
+cd ..
+rm -rf chatUtils/
+ls
+git clone https://github.com/jharlan-hash/chatUtils
+cd chatUtils/
+ls
+nvim build.sh
+ls
+cd src/
+ls
+mv JarDrop.java j
+mv j chatUtils.java
+ls
+nvim chatUtils.java
+ls
+cd ..
+ls
+git add .
+git commit -m "change name to chatUtils"
+./build.sh srv 10.2.114.83 1000
+./build.sh con 10.2.114.83 1000
+git push
+cd ..
+ls
+mv chatUtils/ c
+git clone git@github.com:jharlan-hash/chatUtils.git
+cd chatUtils/
+ls
+cd ..
+ls
+rm chatUtils/src/*
+mv c/src/* chatUtils/src/
+2to3
+cd ..
+ls
+cd chatUtils/
+lsa
+ls
+git add .
+git commit -m "change name to chatUtils"
+git puhs
+git push
+list
+date to-timezone
+date to-timezone CST
+30 | date to-timezone CST
+clear
+nvim .
+ls
+./build.sh srv 10.2.114.83 1000
+nvim build.sh
+./build.sh con 10.2.114.83 1000
+./build.sh srv 10.2.114.83 1000
+./build.sh srv local 1000
+./build.sh srv self 1000
+./build.sh con 192.168.86.22 1000
+./build.sh con 192.168.86.22 1000
+ls
+cd ../chatUtils/
+cd ../chatUtils/
+ls
+l
+sls
+ls
+clear
+clear
+./build.sh con 192.168.86.22 1000
+./build.sh con 192.168.86.22 1000
+./build.sh con 192.168.86.22 1000
+clear
+clear
+./build.sh srv 192.168.86.22 1000
+./build.sh con 192.168.86.22 1000
+./build.sh con 192.168.86.22 1000
+./build.sh srv 192.168.86.22 1000
+git add .
+git commit -m "refactor and functionalize"
+git push
+./build.sh srv 192.168.86.22 1000
+git add .
+git commit -m "add createThread function to Client"
+git push
+./build.sh con 173.29.108.50 100
+./build.sh con 173.29.108.50 1000
+git add .
+git commit -m "set connection timeout to 10000"
+git push
+git add .
+git commit -m "set connection timeout to 100000"
+git push
+./build.sh con 173.29.108.50 1000
+ping 173.29.108.50
+ping 173.29.108.50 -p 1000
+ping 173.29.108.50:1000
+./build.sh con 173.29.108.50 12357
+./build.sh con 173.29.108.50 1000
+ssh jack@raspberrypi
+./build.sh srv 192.168.86.245 1000
+./build.sh con 192.168.86.245 1000
+./build.sh con 192.168.86.245 1000
+exit
+ping 173.29.108.50
+./build.sh srv local 1000
+hostname
+./build.sh srv self 1000
+./build.sh con 192.168.86.22 1000
+clear
+ls
+touch combined
+cat src/*.java out> combined
+nvim .
+ls
+rm combined
+git add .
+git commit -m "add README.md"
+git push
+git pull
+nvim LICENSE
+git add .
+git commit -m "add MIT License"
+git push
+./build.sh con 173.29.108.50 1000 
+./build.sh con 192.168.86.245 1000 
+sudo tracerout 173.29.108.50
+sudo traceroute 173.29.108.50
+traceroute 173.29.108.50
+ls
+git pull
+./build.sh con 173.29.108.50 1000 
+cat build.sh
+ls
+cd ..
+rm -rf chatUtils/
+ls
+cat JarDrop/build.sh
+rm -rf JarDrop/
+git clone git@github.com:jharlan-hash/JSChat.git
+cd JSChat/
+ls
+nvim .
+cd
+cd JS
+ls
+exit
+cd
+ls
+cd js
+ls
+cd ..
+ls
+cd ..
+ls
+cd java/JSChat/
+git branch
+git push -u --help
+git push -n --porcelain
+git push -n 
+claer
+cd js
+cd
+cd chat
+cd caht
+cd chat
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+clear
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+clear
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+git add .
+git commit -m "more work on graceful exits"
+git push
+./build.sh srv localhost 1000
+git add .
+git commit -m "refactor in chatUtils"
+git push
+git commit -m "more refactoring holy crap"
+git add .
+git commit -m "more refactoring holy crap"
+git push
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+git commit -ma "add a little message when somebody leaves the chat"
+git commit -am "add a little message when somebody leaves the chat"
+git push
+git commit -a &&
+git commit -a; git push
+gca
+alias
+alias gca
+alias gca = git commit -a; git push
+gca
+ls -m
+ls
+clear
+nvim .
+cd jar
+cd chat
+ls
+./build.sh con 100.103.244.35 1000
+cd Js
+cd chat
+./build.sh con 100.103.244.35 1000
+./build.sh con 100.103.244.35 1000
+exit
+id
+fish
+clear
+ssh jack@raspberrypi
+l
+ls
+ls -lafsh
+ls -f
+ls
+ls -f
+ls la
+la
+las
+last
+cle
+eclear
+clear
+h2ph 
+halt 
+sudo halt
+ls -la
+ls -f
+cler
+clear
+ls -fal
+clear
+nvim
+brew update && brew upgrade
+brew update; brew upgrade
+nvim --version
+nvim -V1 -v
+cd jar
+ls
+cd chat
+ls
+gca
+config nu
+exit
+config nu
+man alias
+man 2 alias
+man 3 alias
+man 4 alias
+man 5 alias
+config nu
+gca
+ls
+nvim .
+cd chat
+config nu
+gca
+claer
+clear
+gca
+nvim .
+ls
+nvim --help
+nvim --cmd CopilotChat
+nvim -c CopilotChat
+ls
+nvim ./review.sh
+chmod +x ./review.sh
+ls
+./review.sh
+ls
+cat --help
+man cat
+ls
+ls src/
+nvim ./review.sh
+ls
+mv ./review.sh ./check.sh
+ls
+./check.sh
+nvim .
+./check.sh
+nvim .
+./check.sh
+nvim -c CopilotChat check
+nvim -c "CopilotChat check"
+nvim ./check.sh
+./check.sh
+nvim ./check.sh
+nvim ;
+./check.sh
+nvim ./check.sh
+nvim .
+nvim ./.gitignore
+ls
+nvim ./check.sh
+ls
+rm source
+ls
+nvim .gitignore
+gac
+gca
+./build.sh con 100.103.244.35 1000
+./build.sh con 100.103.244.35 1000
+nvim .
+mv src/chatUtils.java src/c
+mv src/c src/ChatUtils
+ls
+ls src/
+mv src/ChatUtils src/ChatUtils.java
+ls
+ls src/
+nvim .
+./build.sh srv localhost 1000
+nvim ./src/ChatUtils.java
+gca
+nvim src/ChatUtils.java
+sl
+ls src/
+nvim check.sh
+git add .
+git commit -m "change ChatUtils.java filename"
+git puhsh
+git push
+./build.sh con 100.103.244.35 1000
+./build.sh con 100.103.244.35 1000
+gca
+./build.sh con 100.103.244.35 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con 100.103.244.35 1000
+./build.sh con 100.103.244.35 1000
+gca
+git pull
+./build.sh con 100.103.244.35 1000
+ssh jack@100.103.244.35
+ping 8.8.8.8
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh srv localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+gca
+git commit --help
+git add .
+git commit
+git rebase -i
+git rebase -r
+git add .
+git commit -m "finish nickname functionality"
+git rebase -p
+git rebase --help
+git rebase
+git rebase -i
+git rebase --edit-todo
+git rebase
+git rebase --abort
+git rebase reword
+git rebase
+git commit -m "finish nickname functionality"
+git commit --remove
+git commit --abort
+git commit -c
+git commit -c "finish nickname function"
+git rebase 
+git rebase -
+git rebase i
+git rebase -i
+git push
+ls
+ls -la
+cat materiallist.md
+rm materiallist.md
+clear
+cd chat
+ls
+ping api.github.com
+./build.sh con localhost 1000
+clea
+clear
+gca
+git push -n
+git pull -n
+git config pull.rebase false
+git pull -n
+git merge
+git add .
+git merge
+ls
+git commit -m "add parseCommands function"
+git push
+ls
+./build.sh con localhost 1000
+./build.sh src localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+clear
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+ls src/
+mv src/chatUtils.java c
+mv c src/ChatUtils.java
+cd src/ChatUtils.java
+ls
+cd src/
+ls
+cd ..
+./build.sh srv localhost 1000
+nvim src/Server.java
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+cd
+nvim .
+nvim /tmp/test
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+sudo nvim /etc/hosts
+sudo cat /etc/hosts
+sudo nvim /etc/hosts
+curl www.instagram.com
+cd cha
+nvim 
+ls
+cd ../RSAtest/
+ls
+javac RSAtest.java
+java RSA
+ls
+java RSAtest
+javac RSAtest.java
+java RSAtest
+./build.sh srv localhost 1000
+cd chat
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+cd chat
+ls
+cd nvim
+cd 
+nvim .
+cd .local/state/nvim/shada/
+ls
+rm *
+ls
+nvim .
+ls
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+clear
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+clear
+clear
+clear
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+what
+clear
+./build.sh srv localhost 1000
+ls
+rm source
+touch source
+ls
+cat src/*.java out> combined
+ls
+rm source
+cat combined
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+nvim .
+./build.sh srv localhost 1000
+ls
+rm combined
+cat src/*.java out> combined
+cat combined
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+clear
+clear
+clea
+clear
+rm src/*.class
+ls
+ls src/
+cd src/
+cat ../build.sh
+javac -g ./*.java
+ls
+rm *.class
+javac -g ./*.java
+ls
+rm *.class
+javac -g ChatUtils.java
+ls
+rm ./*.class
+ls
+javac -g ChatUtils.java
+ls
+diff Client$1.class Client.class
+tldr
+tldr diff
+diff -u Client$1.class Client.class
+clear
+ls
+java --verbose ChatUtils 
+java -verbose ChatUtils 
+java -verbose ChatUtils srv localhost 1000
+ls
+cd src/
+ls
+java -verbose ChatUtils con localhost 1000
+ls
+rm server.out
+java -verbose ChatUtils srv localhost 1000 out> server.out
+ls
+ls
+tail -v
+tldr tail
+tldr head
+java -verbose ChatUtils con localhost 1000 out> client1.out
+java -verbose ChatUtils con localhost 1000 out> client2.out
+ls
+cd ..
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+ls
+mv src/chatUtils.java c
+mv c src/ChatUtils.java
+./build.sh srv localhost 1000
+nvim 
+:q
+nvim combined
+rm src/*.out
+rm src/*.class
+ls src/
+mv c src/ChatUtils.java
+mv src/chatUtils.java c
+mv c src/ChatUtils.java
+cd nvim
+nvim src/Client.java
+nvim .
+nvim .
+cd nvim
+nvim .
+cd chat
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+clear
+clear
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+clear
+clear
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+ls
+git add .
+git commit -m "add basic RSA encryption"
+git pus
+git push
+nvim .
+./build.sh srv localhost 1000
+nvim .
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+git add .
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+git add .
+git commit -m "remove debug information"
+git push
+./build.sh srv localhost 1000
+git push
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+git add .
+git commit -m "half fix /exit issue"
+git push
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+clear
+clear
+./build.sh con localhost 1000
+clear
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+clear
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+git add .
+git commit -m "fix /exit functionality"
+git push
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+git add .
+git commit -m "refactor"
+git push
+./build.sh srv localhost 1000
+git add .
+git commit -m "no more stack traces on server"
+git push
+./build.sh srv localhost 1000
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+ls
+nvim .gitignore
+git remove
+git add .
+tinygit
+easygit
+lazygit 
+git commit -m "fix /nick functionality"
+git push
+cd clones
+ls
+nvim src/ChatUtils.java
+ls
+rm combined
+cat src/*.java out> combined
+ls
+git pull
+nvim combined
+ls
+rm combined
+git pull
+ls
+cat src/*.java out> combined
+nvim combined
+git commit -am "update gitignore"
+git push
+ls
+rm combined
+ls
+cat LICENSE
+nvim README.md
+git commit -am "update README"
+git puhs
+git push
+ils
+iex 
+clear
+ls
+nvim check.sh
+./check.sh
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+cat LICENSE
+sl
+ls
+cat src/*.java out> combined
+nvim combined
+nvim src/
+nvim src/ChatUtils.java
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+java -verbose ChatUtils con localhost 1000 out> client2.out
+ls
+rm client2.out
+rm combined
+ls
+git add .
+git commit -m "rename and refactor"
+git push
+nvim src/Server.java
+./build.sh con localhost 1000
+./build.sh con localhost 1000
+./build.sh srv localhost 1000
+cd nvim
+ls
+cd ..
+ls
+cd ..
+ls
+cd .dotfiles/
+ls
+ls -la
+ls -r
+ls -R
+ls -a
+git add .
+git commit -m "idk"
+git push
+brew install rlwrap
+rlwrap ./build.sh con localhost 1000
+rlwrap ./build.sh con localhost 1000
+./build.sh srv localhost 1000
+ls
+rlwrap --help
+nvim Salary.java
+ls
+cd projects/
+ls
+cd
+cd chat
+getconf ARG_MAX
+asdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljhasdgfkjsaasdfkljha
+clear
+cd chat
+sl
+ls
+srv
+con
+python -m http.server
+python3 -m http.server
+ls
+cd
+cd clones/
+ls
+git clone https://github.com/jharlan-hash/jharlan-hash
+cd jardrop/
+cd ..
+ls
+rm codeviz/
+cd codeviz/
+ls
+cd bin/
+ls
+cd .
+cd ..
+ls
+rm -rf codeviz/
+rm -rf jardrop/
+rm -rf project-lanterminal/
+rm -rf OpenTTD/
+ls
+cd Pumpkin/
+ls
+cd ..
+ls
+rm -rf Pumpkin/
+rm -rf PassableLeaves/
+cd jharlan-hash/
+ls
+python3 -m http.server
+ls
+cd page/
+ls
+cd 1/
+ls
+cd ..
+ls
+cd serpentos/
+ls
+cd ..
+cd serpentos/
+ls
+py
+python3 -m http.server
+config nu
+cd
+ls
+clear
+cd chat
+con
+con
+srv
+nvim .
+ls
+cd aes
+cd ..
+cd AEStest/
+ls
+nvim MAKEFILE
+mv MAKEFILE m
+mv m Makefile
+ls
+make
+nvim Makefile
+cd nvim
+go
+brew install go
+nvim AES.java
+cd nvim
+go
+npm
+cd NVIM
+make
+ls
+clear
+nvim AES.ja
+make
+nvim AES.java
+ls
+mak
+make
+ls
+make
+clear
+ls
+cd chat
+ls
+gcm "add AES.java"
+gca
+cd chat
+srv
+con
+con
+src
+srv
+con
+con
+/exit
+clear
+con
+con
+srv
+con
+clear
+clear
+3clear
+clear
+con
+srv
+con
+clear
+clear
+clear
+srv
+con
+con
+srv
+con
+srv
+con
+src
+srv
+con
+con
+srv
+con
+srv
+con
+con
+srv
+src
+con
+con
+srv
+nvim .
+con
+srv
+con
+con
+srv
+con
+con
+srv
+con
+src
+con
+srv
+con
+gca
+con
+srv
+con
+con
+nvim .
+ls
+cd AES
+ls
+rm AES.class
+make
+srv
+clear
+ls
+nvim AES.java
+make
+nvim AES.java
+make
+nvim AES.java
+javac AES.java
+ls
+java AES h
+java AES adsjklfhadskjlfhsa
+java AES adsjklfhadskj
+java AES adsjklfhadskjlfhsafadsf3145315
+java AES adsjklfhadskjlfhsafadsf31453153425762349583726495847235
+java AES adsjklfhadskjlfhsafadsf31453153425762349583726495847
+java AES adsjklfhadskjlfhsafadsf3145315342576234958372
+con
+con
+srv
+con
+con
+srv
+con
+con
+srv
+con
+con
+srv
+nvim 
+ls
+cd ..
+ls
+cd JSChat/
+ls
+cat src/*.java out> combined
+ls
+nvim .
+cd ..
+ls
+cd JSChat/
+ls
+nvim .
+srv
+con
+con
+srv
+con
+con
+srv
+con
+con
+gca
+nvim .
+src
+lcon
+co
+srv
+con
+srv
+con
+srv
+con
+con
+gca
+srv
+nvim src/Client.java
+ls
+rm combined
+cat .gitignore
+:w
+ls
+clear
+ls \
+cat \
+rm \
+ls
+cd chat
+ls
+con
+con
+srv
+con
+con
+nvim .
+srv
+con
+con
+src
+exit
+srv
+con
+con
+srv
+con
+con
+srv
+con
+con
+srv
+con
+con
+srv
+security 
+security create-keypair
+security dump-trust-settings
+security leaks
+git checkout
+ls
+cd ..
+ls
+mv JSChat/ j
+nvim src/Client.java
+git clone https://github.com/jharlan-hash/JSChat
+ls
+mv j JSChat
+ls
+ls
+srv
+con
+con
+nvim src/Server.java
+con
+con
+srv
+src
+con
+srv
+con
+srv
+srv
+/exit
+con
+con
+srv
+srv
+con
+srv
+con
+con
+stc
+ls
+clear
+srv
+nvim src/Client.java
+con
+con
+cd chat
+srv
+cd chat
+con
+srv
+con
+srv
+con
+brew install airodump-ng
+brew install aircrack-ng
+brew uninstall aircrack-ng
+brew install hwloc cmocka libpcap sqlite3 shtool libtool
+ls
+rm air*
+rm -r air*
+cd
+cd clones/
+wget https://download.aircrack-ng.org/aircrack-ng-1.7.tar.gz<\n>∙  tar -zxvf aircrack-ng-1.7.tar.gz<\n>∙  cd aircrack-ng-1.7<\n>∙  autoreconf -i<\n>∙  ./configure --with-experimental --with-xcode;  make -j8<\n>∙  make -j8 install<\n>∙  sudo ldconfig
+ls
+rm aircrack-ng-1.7.tar.gz
+wget https://download.aircrack-ng.org/aircrack-ng-1.7.tar.gz<\n>  tar -zxvf aircrack-ng-1.7.tar.gz<\n>  cd aircrack-ng-1.7<\n>  autoreconf -i<\n>  ./configure --with-experimental --with-xcode;  make -j8<\n>  make -j8 install<\n>  sudo ldconfig
+brew install autoreconf
+brew install autoconf
+autoreconfg
+autoreconf
+ls
+rm -r air*
+wget https://download.aircrack-ng.org/aircrack-ng-1.7.tar.gz<\n>  tar -zxvf aircrack-ng-1.7.tar.gz<\n>  cd aircrack-ng-1.7<\n>  autoreconf -i<\n>  ./configure --with-experimental --with-xcode;  make -j8<\n>  make -j8 install<\n>  sudo ldconfig
+ls
+cd ..
+ls
+rm ai*
+ls
+rm -r aircrack-ng-1.7/
+ls
+cd ..
+ls
+cdl
+sl
+cal
+calendar 
+ls
+claer
+cela
+certtool 
+clear
+cd chat
+ls
+con
+srv
+con
+nvim .
+gca
+cat ~/.ssh/id_ed25519.pub
+ping 64.181.212.34
+ls
+cd chat
+ls
+mv check.sh ..
+ls
+git add .
+git commit -m "AES.java"
+ls
+git push
+ls
+./build.sh con 64.181.212.34 1000
+./build.sh con jschat-server.subnet11282117.vcn11282117.oraclevcn.com 1000
+sudo iptables -S <\n>
+ping -p 22 64.181.212.34
+ping --help
+ping 64.181.212.34:22
+nmap
+brew install nmap
+nmap -p 80 64.181.212.34:22
+nmap
+ping 64.181.212.34
+cd 
+cd chat
+ls
+./build.sh con 64.181.212.34 1000
+ssh opc@64.181.212.34
+./build.sh con 64.181.212.34 1000
+cd chat
+./build.sh con 64.181.212.34 1000
+cd chat
+./build.sh con 64.181.212.34 1000
+ssh opc@149.130.213.82
+ping 10.0.1.230
+./build.sh con 149.130.213.82 1000
+./build.sh
+ssh opc@149.130.213.82
+./build.sh
+ssh opc@149.130.213.82
+./build.sh con 149.130.213.82 1000
+./build.sh con 149.130.213.82 1000
+exit
+exit
+cd chat
+ls
+nvim .
+cno
+con
+./build.sh srv localhost 1000
+con
+srv
+clear
+srb
+srv
+con
+con
+srv
+con
+con
+git add .
+git commit -m "Remove unnecessary function in AES.java and fix nickname functionality"
+git push
+con
+srv
+con
+./build.sh srv self 1000
+git add .
+git commit -m "Fix getLocalIpAddress()"
+nvim backup.txt
+eval "$("/Users/25jaso/Library/.jack/Whisky.app/Contents/Resources/WhiskyCmd" shellenv "Steam")"
+java AES adsjklfhadskjlfhsafadsf3145315342576234958372
+ls
+clear
+ls
+lockf --help
+ping 8.8.8.8
+ping youtube.com
+neofetch
+clear
+hexdump 
+cd shel
+ls
+hexdump jssh
+hexdump --help
+hexdump -b jssh
+hexdump -B jssh
+hexdump -c jssh
+hexdump -C jssh
+jssh
+man getcwd
+c;aer
+clear
+make
+pwd
+./jssh
+cd cha
+tls
+ls
+tsig-keygen 
+security --help
+security list-keychains
+make
+lw
+ls
+cd ..
+ls
+mkdir Client
+mkdir Server
+ls
+rm check.sh
+rm -rf remembering/
+rm -rf test/
+mv JSChat/src/Server.java Server
+ls
+ls Server/
+mv JSChat/src/ChatUtils.java Server
+mv JSChat/src/AES.java Server
+mv JSChat/src/RSA.java Server
+ls
+ls Server/
+cp Server/* Client/*
+cp Server/* Client/
+ls
+rm Client/Server.java
+mv JSChat/src/Client.java Client
+cd Client/
+ls
+mkdir src
+mv * src/
+mv *.java src
+ls
+//
+cd
+cd chat
+ls
+cd ..
+ls
+cd Server/
+ls
+mkdir src
+mv *.j src
+mv *.java src
+ls
+ls src/
+cd chat
+git pul
+git pull
+./build.sh
+ls
+cd src/
+ls
+javac *
+ls
+rm *.class
+ls
+javac ChatUtils.java
+js
+ls
+nvim .
+java ChatUtils
+ls
+java --help
+java --help | rg jar
+ls
+jar cfe Server.jar ChatUtils ChatUtils.class
+ls
+java -jar Server.jar
+ls
+mv Server.jar ..
+ls
+..
+ls
+java -jar Server.jar
+cd src/
+ls
+rm ../*.jar
+ls
+jar cfe Server.jar ChatUtils ChatUtils.class AES.class Server.class RSA.class
+ls
+nvim ChatUtils.java
+nvim .
+mv ChatUtils.java ServerUtils.java
+ls
+rm *.class
+rm AES.java
+rm RSA.java
+ls
+javac ServerUtils.java
+nvim .
+ls
+cd src/
+ls
+nvim ServerUtils.java
+java ServerUtils
+ls
+jar cfe Server.jar ServerUtils ServerUtils.class Server.class
+:w
+ls
+cp Server.jar ..
+..
+ls
+java -jar Server.jar
+diff Server$1.class Server.class
+diff -u Server$1.class Server.class
+binhex 
+binhex Server$1.class
+rm Server.jar
+cd src/
+ls
+jar cfe Server.jar ServerUtils Server.class ServerUtils.class 
+java -jar Server.jar
+nvim manifest.txt
+nvim ServerUtils.java
+ls
+rm *.class
+ls
+rm Server.jar
+ls
+javac Server.java
+ls
+nvim Server.java
+ls
+rm *.class
+javac Server.java
+ls
+java Server
+jar cfvm Server.jar manifest.txt Server.class
+ls
+java -jar Server.jar
+jar cfvm Server.jar manifest.txt Server.class Server$1.class ServerUtils.class
+ls
+rm Server.jar
+jar cfvm Server.jar manifest.txt Server.class Server$1.class ServerUtils.class
+ls
+java -jar Server.jar
+ls
+cp Server.jar ..
+ls
+rm Server.jar
+ls
+cd ..
+javap --help
+javap -c Server.jar
+cd Server.jar
+cd src/
+ls
+javap -c Server
+:q
+clear
+ls
+cd ..
+ls
+cd ../Server/
+cd ../Client/
+ls
+cd src/
+cp ../../Server/src/manifest.txt
+cp ../../Server/src/manifest.txt .
+ls
+nvim manifest.txt
+ls
+nvim ChatUtils.java
+ls
+javac *
+ls
+javac Client.java
+ls
+jar cfvm Client.jar manifest.txt *.class
+ls
+mv Client.jar ..
+cd ..
+ls
+java -jar Client.jar
+nvim Client.jar
+rm Client.jar
+cd src/
+ls
+javac Client.java
+java Client
+javac Client.java
+java Client
+rm *.class
+ls
+javac Client.java
+java Client1
+java Client
+ls
+rm *.class
+javac Client.java
+ls
+java Client
+java Client custom localhost
+ls
+jar cfvm Client.jar manifest.txt *.class
+ls
+mv Client.jar ..
+ls
+cd ..
+ls
+java -jar Client.jar
+ls
+cd ..
+ls
+ls -r
+ls -R
+ls -t
+ls -t --help
+ls -a
+ls ...
+ls -a **/*
+ls -a **/* | grep.jar
+ls -a **/* | grep .jar
+ls
+cd Client/
+ls
+Client.jar
+java -jar Client.jar
+java -jar Client.jar
+ls
+git pul
+git pull
+ls
+nvim .
+ls
+cd ..
+rm JSChat/
+rm -rf JSChat/
+git clone git@github.com:jharlan-hash/JSChat.git
+cd JSChat/
+ls
+nvim src/
+ls
+mkdir development
+mv ../Server/ .
+ls
+mv ../Client/ .
+ls
+mv src development/
+mv README.md development/
+mv LICENSE development/
+mv build.sh
+mv build.sh development/
+ls
+mv development/README.md .
+mv development/LICENSE .
+ls
+sort
+ls | srot
+ls | sort
+ls | sort --help
+mv development/ d
+mv d Development
+ls
+git add .
+nvim Client/
+nvim .gitignore
+ls
+git add .
+git commit -m "add client and server individual builds"
+git push
+ls
+sl
+ls
+cd JSChat/
+ls
+cd Client/
+cd ../Server/
+ls
+java -jar Client.jar
+java -jar Client.jar
+java -jar Client.jar custom localhost
+java -jar Server.jar
+java -jar Client.jar custom localhost
+ls
+cd src/
+rm *.class
+javac Server.java
+java -jar Client.jar custom localhost
+java -jar Client.jar custom localhost
+nvim 
+java -jar Client.jar custom localhost
+java -jar Client.jar custom localhost
+ls
+cd src/
+ls
+rm *.class
+javac Client.java
+java Client custom localhos
+cd src/
+java Client custom localhos
+java Client custom localhost
+java Client custom localhost
+javac Client.java
+java Client custom localhost
+nvim .
+java Server
+javac Server.java
+java Client custom localhost
+java Server
+cd Ser
+ls
+cd src/
+ls
+rm *.class
+ls
+javac Server.java
+javac Client.java
+java Client custom localhost
+nvim .
+java Client custom localhost
+rm *.class
+ls
+javac Client.java
+java Client custom localhost
+java Client custom localhost
+javac Client.java
+java Client custom localhost
+javac Client.java
+java Client custom localhost
+java Server
+java Client custom localhost
+javac Client.java
+javac Server.java
+javac Server
+java Client custom localhost
+javac Clie
+javac Client.java
+java Client custom localhost
+javac Client.java
+java Client custom localhost
+java Client custom localhost
+javac Client.java
+java Client custom localhost
+java Client custom localhost
+javac Client.java
+java Server
+java Client custom localhost
+bash
+$(echo hello world)
+bash $(echo hello world)
+bash -c $(echo hello world)
+bash -c "$(echo hello world)"
+bash -c "$(echo "hello world")"
+bash -c echo hi
+bash -c echo "hi"
+nvim install.sh
+chmod +x ./install.sh
+ls
+./install.sh
+ls
+mv install.sh projects/java/JSChat/
+cd chat
+ls
+git add install.sh
+git commit -m "add install.sh"
+git push
+curl https://github.com/jharlan-hash/JSChat/blob/main/install.sh | sh
+curl https://github.com/jharlan-hash/JSChat/blob/main/install.sh | bash
+curl https://github.com/jharlan-hash/JSChat/blob/main/install.sh
+curl -sSf https://github.com/jharlan-hash/JSChat/blob/main/install.sh
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh | sh
+curl -q https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh | sh
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh | sh
+cd chat
+ls
+nvim install.sh
+./install.sh
+java -jar Server/Server.jar
+./install.sh
+ls
+rm *.jar
+rm *.jar.*
+ls
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh | sh
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh | sh
+nvim install.sh
+git add install.sh
+git commit -m "edit install.sh"
+git push
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh | sh
+ls
+rm Client.jar.*
+ls
+ls
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh | sh
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh | sh
+ls
+java -jar Client.jar
+rm Client.jar.*
+ls
+rm Client.jar
+ls
+cd Client/
+ls
+cd Client
+java -jar Client.jar
+java -jar Client.jar
+ls
+cd
+cd test
+ls
+cd
+mkdir test
+cd test
+cd
+cd test
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh
+wget https://github.com/jharlan-hash/JSChat/releases/download/alpha/Client.jar;
+ls
+mkdir test2
+cd test2/
+ls
+wget https://github.com/jharlan-hash/JSChat/releases/download/alpha/Client.jar;
+java -jar Client.jar
+java -jar Client.jar
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh
+cd chat
+ls
+nvim install.sh
+cd test
+cd
+cd test
+ls
+sh
+ls
+rm *
+ls
+rm -rf test2/
+ls
+touch install.sh
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh install.sh
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O
+ls
+rm install.sh
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O
+ls
+chmod +x ./install.sh
+./install.sh
+ls
+rm Client.jar
+ls
+./install.sh
+ls
+rm Client.jar
+mkdir test2
+ls
+sh
+ls
+../install.sh
+./install.sh
+ls
+rm Client.jar
+rm install.sh
+ls
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O; chmod +x ./install.sh; ./install.sh
+ls
+rm install.sh
+rm Client.jar
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O; chmod +x ./install.sh; ./install.sh
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O; chmod +x ./install.sh; ./install.sh
+ls
+ls
+rm *
+ls
+rm *
+ls
+mkdir test2
+ls
+rm *
+mkdir test2
+cd test2/
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O; chmod +x ./install.sh; ./install.sh
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O; chmod +x ./install.sh; ./install.sh
+zsh
+zsh
+curl -s https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O; chmod +x ./install.sh; ./install.sh
+curl -s https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O -o /dev/null; chmod +x ./install.sh; ./install.sh
+ls
+rm *
+ls
+ls
+curl -s https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O; clear; chmod +x ./install.sh; ./install.sh
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O; clear; chmod +x ./install.sh; ./install.sh
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O and clear; chmod +x ./install.sh; ./install.sh
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O && clear; chmod +x ./install.sh; ./install.sh
+zsh curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O && clear; chmod +x ./install.sh; ./install.sh
+zsh
+zsh --gelp
+zsh --help
+zsh -c (curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O; chmod +x ./install.sh; ./install.sh)
+zsh -c (curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O && clear chmod +x ./install.sh; ./install.sh)
+zsh
+ls
+ls
+nvim install.sh
+git add install.sh
+git commit -m "edit install.sh"
+git push
+nvim install.sh
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O; chmod +x ./install.sh; ./install.sh
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O
+ls
+cat ./install.sh
+./install.sh
+ls
+rm *
+ls
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O; chmod +x ./install.sh; ./install.sh
+ls
+rm *
+ls
+gleam
+nmap
+ls
+cd tmp/
+ls
+cat pleasedontfind
+rm *
+ls
+clea
+clear
+ls
+brew install gleam
+ls
+cd java
+ls
+git clone https://git.codecrafters.io/cd7c60045c621ec7 codecrafters-shell-java<\n>cd codecrafters-shell-java
+git commit --allow-empty -m 'test'<\n>git push origin master
+nvim.
+nvim .
+git commit -am "uncommented"<\n>git push origin master
+git add .<\n>git commit --allow-empty -m "[any message]"<\n>git push origin master<\n>
+curl https://raw.githubusercontent.com/jharlan-hash/JSChat/refs/heads/main/install.sh -O; chmod +x ./install.sh; ./install.sh
+git add .<\n>git commit --allow-empty -m "[any message]"<\n>git push origin master<\n>
+ls
+cat ./install.sh
+rm install.sh
+./your_program.sh
+ls
+cd target/
+ls
+java -jar codecrafters-shell-1.0.jar
+cd ..
+ls
+cd codecrafters-shell-java/
+git add .<\n>git commit --allow-empty -m ""<\n>git push origin master<\n>
+git add .<\n>git commit --allow-empty -m " "<\n>git push origin master<\n>
+git add .<\n>git commit --allow-empty -m "working"<\n>git push origin master<\n>
+cd projects/
+ls
+mkdir exercism
+cd exercism/
+brew update<\n>brew install exercism<\n>
+exercism
+exercism version<\n>
+exercism configure --token=0b206af8-ab17-4dbe-b56d-81bd6e8fa01c
+exercism download --track=gleam --exercise=hello-world
+cd nvim
+nvim .
+cd ..
+rm exercism/
+cd
+cd Exercism/gleam/hello-world/
+exercism submit
+exercism test
+exercism submit
+exercism download --track=gleam --exercise=lasagna
+nvim Exercism/
+exercism test
+cd ../lasagna/
+ls
+exercism test
+exercism submit
+exercism download --track=gleam --exercise=pacman-rules
+/Users/25jaso/Exercism/gleam/pacman-rules/Users/25jaso/Exercism/gleam/pacman-rules
+/Users/25jaso/Exercism/gleam/pacman-rules
+cd nvim.
+cd nvim
+nvin .
+nvim /Users/25jaso/Exercism/gleam/lasagna
+exercism test
+exercism submit
+exercism download --track=gleam --exercise=log-levels
+/Users/25jaso/Exercism/gleam/log-levels\
+/Users/25jaso/Exercism/gleam/log-levels
+cd nvim
+nvim .
+nvim .
+ls
+exercism tes
+exercism test
+exercism submit
+exercism download --track=gleam --exercise=valentines-day
+/Users/25jaso/Exercism/gleam/valentines-day
+exercism test
+exercism submit
+exercism test
+exercism submit
+exercism download --track=gleam --exercise=bandwagoner
+/Users/25jaso/Exercism/gleam/bandwagoner
+exercism test
+gleam test
+gleam run
+exercism submit
+nvim .
+exercism download --track=gleam --exercise=secrets
+/Users/25jaso/Exercism/gleam/secrets
+exercism test
+exercism submit
+gleam
+gleam shell
+nvim src/secrets.gleam
+exercism download --track=gleam --exercise=treasure-chest
+/Users/25jaso/Exercism/gleam/treasure-chest
+exercism test
+exercism submit
+exercism download --track=gleam --exercise=tracks-on-tracks-on-tracks
+/Users/25jaso/Exercism/gleam/tracks-on-tracks-on-tracks
+ls
+clear
+howdoi index a string in gleam
+/Users/25jaso/Exercism/gleam/tracks-on-tracks-on-tracks
+exercism test
+exercism submit
+exercism test
+exercism submit
+nvim src/tracks_on_tracks_on_tracks.gleam
+exercism download --track=gleam --exercise=flatten-array
+/Users/25jaso/Exercism/gleam/flatten-array
+nvim .
+exercism download --track=gleam --exercise=tisbury-treasure-hunt
+/Users/25jaso/Exercism/gleam/tisbury-treasure-hunt
+exercism test
+gleam
+gleam check
+gleam run
+gleam test
+gleam submit
+exercism submit
+exercism test
+exercism submit
+exercism download --track=gleam --exercise=allergies
+/Users/25jaso/Exercism/gleam/allergies
+ls
+gleam
+gleam shell
+gleam add gleam_community_maths<\n>
+exercism download --track=gleam --exercise=high-school-sweetheart
+/Users/25jaso/Exercism/gleam/high-school-sweetheart
+exercism test
+exercism submit
+nvim .
+exercism download --track=gleam --exercise=bird-count
+/Users/25jaso/Exercism/gleam/bird-count
+exercism test
+1
+exercism test
+exercism help
+ls
+exercism help
+exercism test
+exercism submit
+exercism download --track=gleam --exercise=binary-search-tree
+/Users/25jaso/Exercism/gleam/binary-search-tree
+exercism test
+ls ..
+sudo nvim /etc/hosts
+jshell
+cd clones
+ls
+git clone https://git.codecrafters.io/4dee11f169e46251 codecrafters-interpreter-gleam<\n>cd codecrafters-interpreter-gleam
+git commit --allow-empty -m 'test'<\n>git push origin master
+ls
+git commit --allow-empty -m 'test'<\n>git push origin master
+exercism download --track=gleam --exercise=pizza-pricing
+/Users/25jaso/Exercism/gleam/pizza-pricing
+exercism test
+exercism submit
+exercism test
+nvim src/pizza_pricing.gleam
+exercism download --track=gleam --exercise=go
+/Users/25jaso/Exercism/gleam/go
+nvim src/go.gleam
+ls
+cd
+sl
+^sleep 
+sleep 1
+sleep number 1
+sleep 12
+sleep 1m
+sleep "1"
+sleep --help
+sleep 1sec
+slappasswd 
+man slappasswd
+cd java
+ls
+rm -rf codecrafters-shell-java/
+ls
+rm *test
+rm -rf *test
+s
+ls
+mkdir jlox
+cd lox
+cd jlox
+cd j
+cd java
+ls
+cd jlox/
+ls
+mkdir src
+mv * src
+ls
+mkdir classes
+cd js
+tldr javac
+nvim .
+ls
+mv classes/ bin
+ls
+make
+nvim Makefile
+mak
+make
+ls src/
+nvim Makefile
+make
+nvim .
+sudo nvim /etc/hosts
+la
+ls
+cat backup.txt
+yazi
+ls
+cd .dotfiles/
+ls
+mkdir -p Library/Application\ Support/nushell
+mkdir Library
+cd Library/
+mkdir Application\ Support
+ls
+rm *
+cd
+cd /
+ls
+ls Volumes/
+mkdir Application Support
+ls
+rm *
+mkdir Application\Support
+ls
+mv Application\Support/ Application Support/
+ls
+ls -la
+rm .DS_Store
+cd `Application Support/`
+ls
+cp `/Library/Application Support/nushell` .
+cd
+cd library
+ls
+cd `Application Support/`
+ls
+cp nushell/ `~/.dotfiles/Library/Application Support/`

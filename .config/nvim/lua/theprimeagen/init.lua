@@ -18,6 +18,8 @@ require("lspconfig").jdtls.setup{
     end
 }
 
+vim.g.copilot_filetypes = {gleam = false}
+
 local augroup = vim.api.nvim_create_augroup
 local ThePrimeagenGroup = augroup('ThePrimeagen', {})
 

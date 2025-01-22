@@ -1,2 +1,2 @@
-require("theprimeagen")
-ColorMyPencils()
+require("jack")
+ColorMyPencils();

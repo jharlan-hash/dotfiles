@@ -3,6 +3,9 @@ vim.g.mapleader = " "
 -- best remap of all time
 vim.keymap.set("n", "<leader>jh", vim.cmd.Dirbuf)
 
+-- for ziglings
+vim.keymap.set("n", "<leader>z", "<cmd>!zig build<cr>")
+
 -- hop
 vim.keymap.set("n", "<leader>h", "<cmd>HopWord<cr>")
 
@@ -21,7 +24,6 @@ vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
 vim.keymap.set("n", "J", "mzJ`z") vim.keymap.set("n", "<C-d>", "<C-d>zz")
 
 vim.keymap.set("n", "<C-u>", "<C-u>zz")
-vim.keymap.set("n", "<leader>zig", "<cmd>LspRestart<cr>")
 
 -- navbuddy is awesome
 vim.keymap.set("n", "<leader>l", "<cmd>Navbuddy<cr>")

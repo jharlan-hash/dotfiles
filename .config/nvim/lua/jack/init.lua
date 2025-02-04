@@ -24,6 +24,8 @@ require("dirbuf").setup {
     hash_padding = 2,
 }
 
+--vim.api.nvim_set_hl(0, 'Comment', { italic=false })
+
 -- harpoon --
 local harpoon = require("harpoon")
 harpoon:setup()

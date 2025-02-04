@@ -4,7 +4,7 @@ vim.g.mapleader = " "
 vim.keymap.set("n", "<leader>jh", vim.cmd.Dirbuf)
 
 -- for ziglings
-vim.keymap.set("n", "<leader>z", "<cmd>!zig build<cr>")
+vim.keymap.set("n", "<leader>z", "<cmd>!zig build -Ds=70<cr>")
 
 -- hop
 vim.keymap.set("n", "<leader>h", "<cmd>HopWord<cr>")
@@ -21,12 +21,7 @@ vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
 vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
 
 -- concatenate
-vim.keymap.set("n", "J", "mzJ`z") vim.keymap.set("n", "<C-d>", "<C-d>zz")
-
-vim.keymap.set("n", "<C-u>", "<C-u>zz")
-
--- navbuddy is awesome
-vim.keymap.set("n", "<leader>l", "<cmd>Navbuddy<cr>")
+vim.keymap.set("n", "J", "mzJ`z") vim.keymap.set("n", "<C-d>", "<C-d>zz") vim.keymap.set("n", "<C-u>", "<C-u>zz")
 
 -- little function to add a semicolon at the end of the line
 vim.keymap.set('n', '<leader>;', function()

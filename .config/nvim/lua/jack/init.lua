@@ -10,11 +10,11 @@ require("lspconfig").clangd.setup {
     end
 }
 
-require("lspconfig").jdtls.setup {
-    on_attach = function(client, bufnr)
-        navbuddy.attach(client, bufnr)
-    end
+local config = {
+    cmd = {'jdtls'},
+    root_dir = vim.fs.dirname(vim.fs.find({'gradlew', '.git', 'mvnw'}, { upward = true })[1]),
 }
+require('jdtls').start_or_attach(config)
 
 vim.g.netrw_browse_split = 0
 vim.g.netrw_banner = 0

@@ -2,6 +2,8 @@ require("jack.set");
 require("jack.remap");
 require("jack.lazy_init");
 
+require("luasnip.loaders.from_snipmate").lazy_load()
+
 local navbuddy = require("nvim-navbuddy")
 
 require("lspconfig").clangd.setup {

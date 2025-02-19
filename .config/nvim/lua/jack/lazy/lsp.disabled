@@ -73,7 +73,7 @@ return {
                         }
                     }
                     lspconfig.clangd.setup({
-                        n_attach = on_attach,
+                        on_attach = true,
                         capabilities = capabilities,
                         filetypes = {"c"}
                     })

@@ -1,27 +1,28 @@
 vim.g.mapleader = " "
 
--- best remap of all time
-vim.keymap.set("n", "<leader>jh", vim.cmd.Dirbuf)
+-- my two directory buffers
+-- vim.keymap.set("n", "<leader>jh", vim.cmd.Dirbuf)
+vim.keymap.set("n", "<leader>jh", vim.cmd.NvimTreeToggle)
 
--- for ziglings
-vim.keymap.set("n", "<leader>z", "<cmd>!zig build -Ds=70<cr>")
-
--- hop
-vim.keymap.set("n", "<leader>h", "<cmd>HopWord<cr>")
-
--- quick save
-vim.keymap.set("n", "<leader>k", vim.cmd.w)
-
+-- remapping switching panes to Command + h/j/k/l
+vim.keymap.set("n", "<D-h>", "<C-w>h")
+vim.keymap.set("n", "<D-j>", "<C-w>j")
+vim.keymap.set("n", "<D-k>", "<C-w>k")
+vim.keymap.set("n", "<D-l>", "<C-w>l")
 
 -- i hate when enter moves the cursor for some reason
 vim.keymap.set('n', '<CR>', 'm`o<Esc>``')
 vim.keymap.set('n', '<S-CR>', 'm`O<Esc>``')
 
+
+-- moves lines up and down
 vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
 vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
 
 -- concatenate
-vim.keymap.set("n", "J", "mzJ`z") vim.keymap.set("n", "<C-d>", "<C-d>zz") vim.keymap.set("n", "<C-u>", "<C-u>zz")
+vim.keymap.set("n", "J", "mzJ`z")
+vim.keymap.set("n", "<C-d>", "<C-d>zz")
+vim.keymap.set("n", "<C-u>", "<C-u>zz")
 
 -- little function to add a semicolon at the end of the line
 vim.keymap.set('n', '<leader>;', function()

@@ -1,5 +1,5 @@
 function ColorMyPencils(color)
-	color = color or "catppuccin-mocha"
+	color = color or "lunar"
 	vim.cmd.colorscheme(color)
 
 	vim.api.nvim_set_hl(0, "Normal", { bg = "none" })
@@ -8,5 +8,10 @@ function ColorMyPencils(color)
 end
 
 return {
-    { "catppuccin/nvim", name = "catppuccin", }
+    {
+        "LunarVim/lunar.nvim",
+        name = "lunar",
+        priority = 1000,
+        lazy = "false",
+    }
 }

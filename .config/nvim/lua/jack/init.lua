@@ -1,30 +1,22 @@
+vim.g.loaded_netrw = 1
+vim.g.loaded_netrwPlugin = 1
+
+-- optionally enable 24-bit colour
+vim.opt.termguicolors = true
+
 require("jack.set");
 require("jack.remap");
 require("jack.lazy_init");
 
 require("luasnip.loaders.from_snipmate").lazy_load()
 
-local navbuddy = require("nvim-navbuddy")
-
-require("lspconfig").clangd.setup {
-    on_attach = function(client, bufnr)
-        navbuddy.attach(client, bufnr)
-    end
-}
-
-local config = {
-    cmd = {'jdtls'},
-    root_dir = vim.fs.dirname(vim.fs.find({'gradlew', '.git', 'mvnw'}, { upward = true })[1]),
-}
-require('jdtls').start_or_attach(config)
-
 vim.g.netrw_browse_split = 0
 vim.g.netrw_banner = 0
 vim.g.netrw_winsize = 25
 
-require("dirbuf").setup {
-    hash_padding = 2,
-}
+-- require("dirbuf").setup {
+--     hash_padding = 2,
+-- }
 
 --vim.api.nvim_set_hl(0, 'Comment', { italic=false })
 

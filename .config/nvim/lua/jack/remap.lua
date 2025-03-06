@@ -10,6 +10,9 @@ vim.keymap.set("n", "<D-j>", "<C-w>j")
 vim.keymap.set("n", "<D-k>", "<C-w>k")
 vim.keymap.set("n", "<D-l>", "<C-w>l")
 
+-- most annoying command ever
+vim.keymap.set("n", "q:", "<nop>");
+
 -- i hate when enter moves the cursor for some reason
 vim.keymap.set('n', '<CR>', 'm`o<Esc>``')
 vim.keymap.set('n', '<S-CR>', 'm`O<Esc>``')

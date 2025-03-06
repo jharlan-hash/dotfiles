@@ -10,10 +10,6 @@ require("jack.lazy_init");
 
 require("luasnip.loaders.from_snipmate").lazy_load()
 
-vim.g.netrw_browse_split = 0
-vim.g.netrw_banner = 0
-vim.g.netrw_winsize = 25
-
 -- require("dirbuf").setup {
 --     hash_padding = 2,
 -- }

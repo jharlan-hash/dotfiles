@@ -11,6 +11,7 @@ if status is-interactive
 
 end
 
-source (/opt/homebrew/bin/starship init fish --print-full-init | source )⏎
-eval "$(/opt/homebrew/bin/brew shellenv)"
+fish_vi_key_bindings
+set starship_path (which starship)
+source ($starship_path init fish --print-full-init | psub )
 fzf --fish | source

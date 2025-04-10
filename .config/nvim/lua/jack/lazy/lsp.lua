@@ -31,7 +31,7 @@ return {
         local has_words_before = function()
             if vim.api.nvim_buf_get_option(0, "buftype") == "prompt" then return false end
             local line, col = unpack(vim.api.nvim_win_get_cursor(0))
-            return col ~= 0 and vim.api.nvim_buf_get_text(0, line-1, 0, line-1, col, {})[1]:match("^%s*$") == nil
+            return col ~= 0 and vim.api.nvim_buf_get_text(0, line - 1, 0, line - 1, col, {})[1]:match("^%s*$") == nil
         end
 
         require("fidget").setup({})
@@ -72,17 +72,19 @@ return {
                             }
                         }
                     }
+
                     lspconfig.clangd.setup({
                         on_attach = true,
                         capabilities = capabilities,
-                        filetypes = {"c"}
+                        filetypes = { "c" }
                     })
+
                     lspconfig.gleam.setup({})
                 end,
             }
         })
 
-        local cmp_select = { behavior = cmp.SelectBehavior.Select }
+        local cmp_select = { behavior = cmp.SelectBehavior.Insert }
 
         cmp.setup({
             snippet = {
@@ -123,7 +125,7 @@ return {
         vim.diagnostic.config({
             float = {
                 focusable = false,
-                style = "minimal",
+                style = "normal",
                 border = "rounded",
                 source = "always",
                 header = "",

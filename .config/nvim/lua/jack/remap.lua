@@ -1,8 +1,8 @@
 vim.g.mapleader = " "
 
 -- my two directory buffers
--- vim.keymap.set("n", "<leader>jh", vim.cmd.Dirbuf)
-vim.keymap.set("n", "<leader>jh", vim.cmd.NvimTreeToggle)
+vim.keymap.set("n", "<leader>jh", vim.cmd.Dirbuf)
+-- vim.keymap.set("n", "<leader>jh", vim.cmd.NvimTreeToggle)
 
 -- remapping switching panes to Command + h/j/k/l
 vim.keymap.set("n", "<D-h>", "<C-w>h")
@@ -38,13 +38,35 @@ vim.keymap.set('n', '<leader>;', function()
 end, { noremap = true, silent = true })
 
 -- next greatest remap ever : asbjornHaland
-vim.keymap.set({"n", "v"}, "<leader>y", [["+y]])
+vim.keymap.set({ "n", "v" }, "<leader>y", [["+y]])
 vim.keymap.set("n", "<leader>y", [["+Y]])
 
 vim.keymap.set("n", "Q", "<nop>")
 
 -- i love lsp formatting
 vim.keymap.set("n", "<leader>f", vim.lsp.buf.format)
+vim.keymap.set("n", "<leader>r", vim.cmd.LspRestart)
+
+vim.keymap.set("n", "gt", function() vim.lsp.buf.definition() end)
+
+vim.keymap.set("n", "dn", function() vim.diagnostic.goto_next() end)
+vim.keymap.set("n", "dp", function() vim.diagnostic.goto_prev() end)
+
+vim.keymap.set("n", "<C-CR>", function() vim.lsp.buf.code_action() end)
+
+vim.keymap.set("n", "<leader>o",
+    -- organize imports
+    function()
+        vim.lsp.buf.code_action({
+            apply = true,
+            context = {
+                only = { "source.organizeImports" }
+            }
+        })
+    end)
+vim.keymap.set("n", "<leader>vrr", function() vim.lsp.buf.references() end)
+vim.keymap.set("n", "<leader>vrn", function() vim.lsp.buf.rename() end)
+
 
 -- great regex for finding and changing all instances
 vim.keymap.set("n", "<leader>s", [[:%s/\<<C-r><C-w>\>/<C-r><C-w>/gI<Left><Left><Left>]])
